@@ -1,6 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&family=Montserrat:wght@400;600&display=swap');
 
 
+/* 
+grey-black #263538
+whiteish #FDFDFF
+SIlver #C6C5B9
+tealy-blue #62929E
+slatey-grey #546A7B */
+
 /*----------------------General styles across site---------------------------*/
 
 
@@ -16,7 +23,7 @@ h1 {
 .callout-container {
     height: 100vh;
 
-    background: url('../images/card-table.jpg') no-repeat center center fixed;
+    background: url('../images/card-table.jpg') #263538 no-repeat center center ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

@@ -1,13 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&family=Montserrat:wght@400;600&display=swap');
 
 
-/* 
-grey-black #263538
-whiteish #FDFDFF
-SIlver #C6C5B9
-tealy-blue #62929E
-slatey-grey #546A7B */
-
 /*----------------------General styles across site---------------------------*/
 
 
@@ -35,25 +28,25 @@ h3 {
 }
 
 
-
-
-/* 
-/*----------------------Colours---------------------------*/
-Background grey-black #263538
-whiteish #FDFDFF
-SIlver #C6C5B9
-tealy-blue #62929E
-staely-grey #546A7B */
-
-
 /*----------------------Alert Section---------------------------*/
 
 .alert-container {
     background-color: #c6c5b9;
     margin: 0 auto;
     text-align: center;
-    color: #212529;
+    color: #263538;
     font-size: larger;
+    
+
+}
+
+
+.alert a {
+    color: #263538;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: larger;
+    font-weight: 600;
 }
 
     

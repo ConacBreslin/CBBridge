@@ -24,6 +24,22 @@ h1, h2 {
     background-color:#C6C5B9;
     border-color: #263538; 
 }
+.text-container {
+    background-color: rgba(198,197,185,0.5);
+}
+
+.inspirational-quote {
+    
+    
+    background-color: #263538;
+    color: #C6C5B9;
+}
+
+.blockquote-footer{
+    color:#FDFDFF
+
+}
+
 
 
 

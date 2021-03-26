@@ -48,11 +48,18 @@ staely-grey #546A7B */
 
 /*----------------------Alert Section---------------------------*/
 
+.alert-container {
+    background-color: #c6c5b9;
+    margin: 0 auto;
+    text-align: center;
+    color: #212529;
+    font-size: larger;
+}
 
+    
 
 /*----------------------Nav Bar---------------------------*/
 
 
 
 /*----------------------Callout---------------------------*/
-

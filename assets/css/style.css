@@ -10,22 +10,24 @@ body {
 
 h1, h2 { 
     font-family: 'Comfortaa', cursive;
-    color: #c6c5b9;
+    }
+
+    
+.btn {
+    color: #C6C5B9;
+    background-color:#263538;
+    border-color: #C6C5B9;
+    margin-bottom: 1rem;
+}
+.btn:hover {
+    color: #263538;
+    background-color:#C6C5B9;
+    border-color: #263538; 
 }
 
-h3 {
- color: #c6c5b9;   
-}
 
-.callout-container {
-    height: 100vh;
 
-    background: url('../images/card-table.jpg') #263538 no-repeat center center ;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
+
 
 
 /*----------------------Alert Section---------------------------*/
@@ -56,3 +58,30 @@ h3 {
 
 
 /*----------------------Callout---------------------------*/
+
+.callout-container {
+    height: 100vh;
+
+    background: url('../images/card-table.jpg') #263538 no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.callout-container h1 {
+    color: #c6c5b9; 
+}
+
+.callout-container h2 {
+    color: #c6c5b9; 
+}
+
+.callout-container h3 {
+    color: #c6c5b9; 
+}
+/*----------------------About Bridge---------------------------*/
+
+.aboutbridge-container{
+    background-color: rgba(198,197,185,0.5);
+}

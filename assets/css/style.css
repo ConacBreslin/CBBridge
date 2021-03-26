@@ -1,13 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&family=Montserrat:wght@400;600&display=swap');
 
 
+/*----------------------General styles across site---------------------------*/
 
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 { 
+    font-family: 'Comfortaa', cursive;
+    color: #c6c5b9;
+}
+
+.callout-container {
+    height: 100vh;
+
+    background: url('../images/card-table.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+
+/* 
 /*----------------------Colours---------------------------*/
 Background grey-black #263538
 whiteish #FDFDFF
 SIlver #C6C5B9
 tealy-blue #62929E
-staely-grey #546A7B
+staely-grey #546A7B */
 
 
 /*----------------------Alert Section---------------------------*/
@@ -19,3 +44,4 @@ staely-grey #546A7B
 
 
 /*----------------------Callout---------------------------*/
+

@@ -85,3 +85,18 @@ h1, h2 {
 .aboutbridge-container{
     background-color: rgba(198,197,185,0.5);
 }
+
+
+/*----------------------Inspirational quote---------------------------*/
+
+.inspirational-quote {
+    
+    
+    background-color: #263538;
+    color: #C6C5B9;
+}
+
+.blockquote-footer{
+    color:#FDFDFF
+
+}

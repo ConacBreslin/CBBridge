@@ -15,9 +15,13 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-h1 { 
+h1, h2 { 
     font-family: 'Comfortaa', cursive;
     color: #c6c5b9;
+}
+
+h3 {
+ color: #c6c5b9;   
 }
 
 .callout-container {

@@ -81,7 +81,7 @@ Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-res
     margin: 0 auto;
     text-align: center;
     color: #263538;
-    font-size: larger;
+    font-size: 1.5rem;
     
 
 }
@@ -89,14 +89,19 @@ Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-res
 .alert {
     margin-bottom: 0;
 }
+
+
 .alert a {
     color: #263538;
-    text-decoration: none;
-    background-color: transparent;
     font-weight: 600;
 }
 
     
+.alert .close {
+    font-size: 2.5rem
+    
+
+}
 
 /*----------------------Nav Bar---------------------------*/
 

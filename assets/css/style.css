@@ -75,6 +75,9 @@ h1, h2 {
 
 /*----------------------Callout---------------------------*/
 
+/* 
+Code snippet from https://css-tricks.com/  */
+
 .callout-container {
     height: 100vh;
 
@@ -85,7 +88,7 @@ h1, h2 {
     background-size: cover;
 }
 
-.callout-container h1 {
+.callout-container h1{
     color: #c6c5b9; 
 }
 
@@ -96,6 +99,7 @@ h1, h2 {
 .callout-container h3 {
     color: #c6c5b9; 
 }
+
 /*----------------------About Bridge---------------------------*/
 
 .text-container {
@@ -129,6 +133,6 @@ h1, h2 {
 
 /*---------------------Footer--------------------------*/
 
-.links-list li {
+#links-list li {
      list-style-type: none;
 }

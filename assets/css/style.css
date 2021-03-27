@@ -157,6 +157,19 @@ Code snippet from https://css-tricks.com/  */
     color: #c6c5b9;
 }
 
+
+    mark {
+        font-size: larger;
+        background-color: #263538;
+        color: #fdfdff;
+        
+       
+    }
+
+
+#intro-offer {margin-top: 5rem;
+}
+
 /*----------------------About Bridge---------------------------*/
 
 .text-container {

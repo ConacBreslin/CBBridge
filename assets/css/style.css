@@ -86,12 +86,13 @@ Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-res
 
 }
 
-
+.alert {
+    margin-bottom: 0;
+}
 .alert a {
     color: #263538;
     text-decoration: none;
     background-color: transparent;
-    font-size: larger;
     font-weight: 600;
 }
 

@@ -41,6 +41,34 @@ h1, h2 {
 }
 
 
+/* 
+Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css */
+
+.table-responsive {
+    min-height: .01%;
+    overflow-x: auto;
+}
+
+@media screen and (max-width: 767px) {
+    .table-responsive {
+        width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #ddd;
+    }
+    .table-responsive > .table {
+        margin-bottom: 0;
+    }
+    .table-responsive > .table > thead > tr > th,
+    .table-responsive > .table > tbody > tr > th,
+    .table-responsive > .table > tfoot > tr > th,
+    .table-responsive > .table > thead > tr > td,
+    .table-responsive > .table > tbody > tr > td,
+    .table-responsive > .table > tfoot > tr > td {
+        white-space: nowrap;
+    }
+}
 
 
 
@@ -122,11 +150,6 @@ Code snippet from https://css-tricks.com/  */
 }
 
 /*---------------------Learn Bridge--------------------------*/
-
-
-
-
-
 
 
 

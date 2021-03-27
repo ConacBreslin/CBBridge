@@ -139,6 +139,11 @@ Code snippet from https://css-tricks.com/  */
     color: #c6c5b9; 
 }
 
+#callout-header {
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+#callout-header h1 {line-height: 2;}
 /*----------------------About Bridge---------------------------*/
 
 .text-container {

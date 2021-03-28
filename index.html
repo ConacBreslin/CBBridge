@@ -16,7 +16,7 @@
 
 <body>
     <!------------------Alert------------------------------------------->
-    <section>
+    <article>
         <div class="container-fluid alert-container">
             <div class="row d-none d-sm-block">
                 <div class="col-12">
@@ -30,13 +30,13 @@
                 </div>
             </div>
         </div>
-    </section>
+    </article>
     <!------------------/Alert------------------------------------------->
 
     <!------------------/NavBar------------------------------------------->
-    <section>
+    
         <nav class="navbar navbar-expand-sm sticky-top navbar-dark bg-dark">
-            <a class="navbar-brand" href="#"><img src="../assets/images/logo.png"></a>
+            <a class="navbar-brand" href="#"><img src="../assets/images/logo.png" alt="logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -61,7 +61,7 @@
 
             </div>
         </nav>
-    </section>
+    
 
     <!------------------/NavBar------------------------------------------->
 
@@ -78,7 +78,7 @@
                     </header>
                 </div>
             </div>
-            <main id="callout-maincontent">
+            <div id="callout-maincontent">
                 <div class="row">
                     <div class="col-12 text-center">
                         <a href="#">
@@ -97,7 +97,7 @@
                         </a>
                     </div>
                 </div>
-            </main>
+            </div>
 
             <div class="row" id="intro-offer">
                 <div class="col-12 text-center">
@@ -136,7 +136,7 @@
                     <p class="text-justify">Bridge is a card game played in pairs. There are several stages to the game.
                         The first is the ‘auction’ when the pairs try to work out how many ‘tricks’ they can win. After
                         that the hand is played, and at the end a score is given that reflects how close they came to winnning the
-                        number of tricks they bid in the auction. </p><a class="btn btn-sm btn-dark btn-find-out-more"
+                        number of tricks they bid in the auction. </p><a class="btn btn-sm btn-find-out-more"
                                 href="https://en.wikipedia.org/wiki/Contract_bridge" target="_blank">Find out more
                                 here</a>
                     
@@ -151,7 +151,7 @@
                         twice. Bridge has been shown to exercise your brain – stimulating both sides! It is a unique
                         type of mental activity and a pastime that can last you a lifetime.</p>
                         <a
-                            class="btn btn-sm btn-dark"
+                            class="btn btn-sm"
                             href="https://www.bridgewebs.com/ipswichschool/Why_Bridge_is_so_good_for_you.htm"
                             target="_blank">Find out more here</a>
                 </div>
@@ -167,7 +167,7 @@
                         environment makes it easier and having a friend or family member you can learn with is always
                         helpful (though it is not essential to learn with a partner). However, Bridge cannot be
                         absorbed, it has to be actively learned so the more time you can devote to it the easier you
-                        will find it.</p><a class="btn btn-sm btn-dark"
+                        will find it.</p><a class="btn btn-sm"
                             href="https://howtoplaybridge.co.uk/is-bridge-hard-to-learn/" target="_blank">Find out more
                             here</a>
 
@@ -179,7 +179,7 @@
                         simplified version of the game and it is possible to start playing hands of bridge after only
                         one lesson! After that it depends how far you want to go! It takes at least two terms before you
                         are ready to play in a club. After you can choose to learn as little or as much ommore as you
-                        want.</p><a class="btn btn-sm btn-dark"
+                        want.</p><a class="btn btn-sm"
                             href="https://blueberrybridge.com/how-long-does-it-take-to-learn-bridge/"
                             target="_blank">Find out more here</a>
                 </div>
@@ -542,7 +542,7 @@
    
 
     <!-- Second Inspirational Quote -->
-    <section>
+    <article>
         <div class="container">
             <div class="row inspirational-quote">
                 <div class="col-10 offset-1 ">
@@ -559,7 +559,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </article>
     <!-- /Second Inspirational Quote -->
    
     <!------------------Play Bridge------------------------------------------->
@@ -653,13 +653,14 @@
 
 
                             </tbody>
-                            <div class="col-12 text-center">
+
+                            
+                        </table>
+                        <div class="col-12 text-center">
 
                                 <button type="button" class="btn  btn-lg" data-bs-toggle="modal"
                                     data-bs-target="#ModalforSignUp">Sign Up Now</button>
                             </div>
-                        </table>
-                    </div>
                 </div>
             </div>
 
@@ -699,20 +700,15 @@
                 </div>
                 <form>
                     <div class="col-6 col-lg-4">
-
-
                         <label for="firstname" class="form-label">First Name:</label>
                         <input type="text" class="form-control" id="firstname" placeholder="First Name">
                         <label for="surname" class="form-label">Surname:</label>
                         <input type="text" class="form-control" id="surname" placeholder="Surname">
                         <label for="email" class="form-label">Email</label>
                         <input type="email" class="form-control" id="email" placeholder="E-mail Address">
-
                     </div>
                     <div class="col-6 col-lg-4">
-
-
-                        <div class="form-check">
+                       <div class="form-check">
                             <p>I am interested in</p>
                             <input class="form-check-input" type="radio" name="whatwant" value="classes" id="classes">
                             <label class="form-check-label" for="classes">Classes
@@ -730,7 +726,6 @@
                                 Both
                             </label>
                         </div>
-
                         <select class="form-select" aria-label="Default select example">
                             <option selected>My level is</option>
                             <option value="beginner">Complete Beginner</option>
@@ -738,30 +733,21 @@
                             <option value="intermediate">Intermediate</option>
                             <option value="advanced">Advanced</option>
                         </select>
-
-
                     </div>
                     <div class="col-12 col-lg-4">
-
                         <div class="mb-3">
                             <label for="anyquestions" class="form-label">Any other questions?</label>
                             <textarea class="form-control" id="anyquestions" rows="7"
                                 placeholder="Ask them here."></textarea>
                         </div>
                     </div>
-
-
-
-
                     <div class="col-12 text-center">
                         <button type="submit" class="btn btn-lg" data-toggle="modal" data-target="#SignUpModal">Sign Up
                             Now</button>
                     </div>
-            </div>
+            
             </form>
-
-
-
+            </div>
         </div>
     </section>
     <!------------------/Sign Up------------------------------------------->
@@ -772,7 +758,7 @@
     <footer class="container-fluid footer-container">
         <div class="row">
             <div class="col-3">
-                <h4>Useful Links</h4>
+                <h4 class="text-center">Useful Links</h4>
                 <ul id="links-list">
                     <li><a target="_blank" href="#">Data Protection</a></li>
                     <li><a target="_blank" href="#">Privacy Policy</a></li>
@@ -780,8 +766,8 @@
                 </ul>
             </div>
             <div class="col-3">
-                <h4>Social</h4>
-                <ul class="list-inline">
+                <h4 class="text-center">Social Media</h4>
+                <ul class="list-inline social-media-links">
                     <li class="list-inline-item"><a target="_blank" href="#"><i class="fab fa-facebook-f"></i><span
                                 class="sr-only">Facebook</span></a></li>
                     <li class="list-inline-item"><a target="_blank" href="#"><i class="fab fa-twitter"></i><span

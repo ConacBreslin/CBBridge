@@ -136,7 +136,7 @@ Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-res
 Code snippet from https://css-tricks.com/  */
 
 .callout-container {
-    height: 100vh;
+    min-height: 100vh;
 
     background: url('../images/card-table.jpg') #263538 no-repeat center center ;
     -webkit-background-size: cover;
@@ -219,3 +219,6 @@ footer a {
 }
 
 
+.social-media-links {
+    font-size: 2rem;
+}

@@ -30,15 +30,28 @@ h1, h2 {
     background-color: rgba(198,197,185,0.5);
 }
 
+
+/*----------------------Quotes---------------------------*/
 .inspirational-quote {
     
     
     background-color: #263538;
     color: #C6C5B9;
+    
 }
 
+
+.blockquote {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-style: oblique;
+}
+
+
 .blockquote-footer{
-    color:#FDFDFF
+    color: #000;
+    float: right;
+    font-size: 100%;
 
 }
 
@@ -178,7 +191,10 @@ Code snippet from https://css-tricks.com/  */
     background-color: rgba(198,197,185,0.5);
 }
 
-
+.btn-find-out-more {
+    position: absolute;
+    
+}
 /*----------------------Inspirational quote---------------------------*/
 
 .inspirational-quote {
@@ -188,7 +204,7 @@ Code snippet from https://css-tricks.com/  */
     color: #C6C5B9;
 }
 
-.blockquote-footer{
+.inspirational-quote .blockquote-footer{
     color:#FDFDFF
 
 }

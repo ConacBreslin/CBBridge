@@ -114,7 +114,11 @@ Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-res
     font-weight: 600;
 }
 
-    
+ .alert a:hover {
+     font-size: larger;
+ }  
+
+
 .alert .close {
     font-size: 2.5rem
     
@@ -187,6 +191,8 @@ Code snippet from https://css-tricks.com/  */
 
 #intro-offer {margin-top: 2rem;
 }
+
+
 
 /*----------------------About Bridge---------------------------*/
 

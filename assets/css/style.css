@@ -32,13 +32,6 @@ h1, h2 {
 
 
 /*----------------------Quotes---------------------------*/
-.inspirational-quote {
-    
-    
-    background-color: #263538;
-    color: #C6C5B9;
-    
-}
 
 
 .blockquote {
@@ -55,6 +48,16 @@ h1, h2 {
 
 }
 
+.inspirational-quote {  
+    background-color: #263538;
+    color: #C6C5B9; 
+}
+
+
+
+.inspirational-quote .blockquote-footer{
+    color:#fdfdff
+}
 
 /* 
 Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css */
@@ -195,19 +198,8 @@ Code snippet from https://css-tricks.com/  */
     position: absolute;
     
 }
-/*----------------------Inspirational quote---------------------------*/
 
-.inspirational-quote {
-    
-    
-    background-color: #263538;
-    color: #C6C5B9;
-}
 
-.inspirational-quote .blockquote-footer{
-    color:#FDFDFF
-
-}
 
 /*---------------------Learn Bridge--------------------------*/
 

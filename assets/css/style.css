@@ -35,6 +35,7 @@ color: #c6c5b9;
     color:#263538;
 font-size: larger;
 font-weight: bold;
+text-decoration: none;
 
 }
 
@@ -129,6 +130,7 @@ Code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-res
 
  .alert a:hover {
      font-size: larger;
+     text-decoration: none;
  }  
 
 

@@ -26,6 +26,19 @@ h1, h2 {
     background-color:#C6C5B9;
     border-color: #263538; 
 }
+
+.btn-signup a {
+color: #c6c5b9;
+}
+
+.btn-signup a:hover {
+    color:#263538;
+font-size: larger;
+font-weight: bold;
+
+}
+
+
 .text-container {
     background-color: rgba(198,197,185,0.5);
 }

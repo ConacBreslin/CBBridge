@@ -20,6 +20,8 @@ h1, h2 {
     background-color:#263538;
     border-color: #C6C5B9;
     margin-bottom: 2rem;
+    border-radius: 12px;
+
 }
 .btn:hover {
     color: #263538;
@@ -147,6 +149,10 @@ text-decoration: none;
     text-align: center;
     font-size: 1.3rem;
 }
+
+.navbar-brand a:hover {
+    font-size: larger;
+} 
 
 
 .navbar-dark .navbar-nav .nav-link {

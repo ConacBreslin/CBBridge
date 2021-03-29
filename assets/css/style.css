@@ -122,6 +122,17 @@ text-decoration: none;
 }
 
 
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(198, 197, 185, 1);
+}
+
+.navbar-nav a:hover {
+    color: rgba(198, 197, 185, 1);
+     font-size: larger;
+     text-decoration: none;
+ }  
+
+
 /*----------------------Callout---------------------------*/
 
 /* 

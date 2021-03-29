@@ -197,13 +197,13 @@ Code snippet from https://css-tricks.com/  */
 
 .text-container {
     background-color: rgba(198,197,185,0.5);
-    position: relative;
+
 }
 
-.btn-find-out-more {
-    position: absolute;
-    bottom: 0px;
-    right:10px;
+
+
+.btn-findoutmore {
+    margin: 0 auto;
     
 }
 

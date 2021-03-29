@@ -225,6 +225,11 @@ Code snippet from https://css-tricks.com/  */
 
 /*---------------------Learn Bridge--------------------------*/
 
+.learn-table-heading {
+    text-align: center;
+}
+/*---------------------Sign Up--------------------------*/
+
 
 
 
@@ -251,4 +256,3 @@ footer a:hover {
     font-size: 2rem;
 }
 
-/*---------------------Footer--------------------------*/

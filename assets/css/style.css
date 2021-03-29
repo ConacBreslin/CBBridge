@@ -240,7 +240,15 @@ footer a {
     color: #263538;
 }
 
+footer a:hover {
+    color: #263538;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 
 .social-media-links {
     font-size: 2rem;
 }
+
+/*---------------------Footer--------------------------*/

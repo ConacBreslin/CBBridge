@@ -219,6 +219,13 @@ select.form-select {
 
 /*---------------------Footer--------------------------*/
 
+
+.footer-container h4 {
+    font-size: 1.5rem;
+    margin-top: 15px;
+}
+
+
 #links-list li {
      list-style-type: none;
 }

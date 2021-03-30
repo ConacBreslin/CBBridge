@@ -283,7 +283,9 @@ select.form-select {
     label.form-label {
     font-weight: bold;
 }
-
+ .form-control {
+     margin-bottom: 20px;
+ }
 /*---------------------Footer--------------------------*/
 
 

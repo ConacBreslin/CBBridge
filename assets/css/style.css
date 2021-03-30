@@ -117,6 +117,7 @@ text-decoration: none;
     text-align: center;
     color: #263538;
     font-size: 1.5rem;
+   
     
 
 }
@@ -129,6 +130,7 @@ text-decoration: none;
 .alert a {
     color: #263538;
     font-weight: 600;
+     transition: all 0.25s ease 0s;
 }
 
  .alert a:hover {
@@ -212,7 +214,15 @@ Code snippet from https://css-tricks.com/  */
 
 #callout-maincontent a {
     color: #c6c5b9;
+    
+     transition: all 0.25s ease 0s;
 }
+    
+
+  #callout-maincontent a:hover {
+      font-size: larger;
+      text-decoration: none;
+  }
 
 
     mark {
@@ -222,7 +232,6 @@ Code snippet from https://css-tricks.com/  */
         
        
     }
-
 
 #intro-offer {margin-top: 2rem;
 }

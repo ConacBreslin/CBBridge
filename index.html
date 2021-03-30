@@ -719,21 +719,21 @@
             <form method="POST" action="https://formdump.codeinstitute.net/" class="row">
                 <div class="col-6 col-lg-4">
                     <label for="firstname" class="form-label">First Name:</label>
-                    <input type="text" class="form-control" id="firstname" placeholder="First Name">
+                    <input type="text" class="form-control" id="firstname" placeholder="First Name" required>
                     <label for="surname" class="form-label">Surname:</label>
-                    <input type="text" class="form-control" id="surname" placeholder="Surname">
+                    <input type="text" class="form-control" id="surname" placeholder="Surname" required>
                     <label for="email" class="form-label">Email</label>
-                    <input type="email" class="form-control" id="email" placeholder="E-mail Address">
+                    <input type="email" class="form-control" id="email" placeholder="E-mail Address" required>
                 </div>
                 <div class="col-6 col-lg-4">
                     <div class="form-check">
                         <p id="radiobutton-name">I am interested in</p>
-                        <input class="form-check-input" type="radio" name="whatwant" value="classes" id="classes">
+                        <input class="form-check-input" type="radio" name="whatwant" value="classes" id="classes" required>
                         <label class="form-check-label" for="classes">Classes
                         </label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="whatwant" value="play" id="play">
+                        <input class="form-check-input" type="radio" name="whatwant" value="play" id="play" required>
                         <label class="form-check-label" for="play">
                             Play
                         </label>
@@ -744,7 +744,7 @@
                             Both
                         </label>
                     </div>
-                    <select id="signup-dropdown" class="form-select" aria-label="Current knowledge level">
+                    <select id="signup-dropdown" class="form-select" aria-label="Current knowledge level" required>
                         <option selected>My level is</option>
                         <option value="beginner">Complete Beginner</option>
                         <option value="novice">Novice</option>

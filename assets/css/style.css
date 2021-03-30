@@ -215,25 +215,22 @@ Code snippet from https://css-tricks.com/  */
 
 #callout-maincontent a {
     color: #c6c5b9;
-    
-     transition: all 0.25s ease 0s;
+    transition: all 0.25s ease 0s;
+}
 
-
-  #callout-maincontent a:hover {
+#callout-maincontent a:hover {
       font-size: larger;
-     
-  }
+}
 
 
-    mark {
+mark {
         font-size: larger;
         background-color: #263538;
         color: #fdfdff;
-        
-       
-    }
+}
 
-#intro-offer {margin-top: 2rem;
+#intro-offer {
+    margin-top: 2rem;
 }
 
 
@@ -316,4 +313,5 @@ footer a:hover {
 
 
 #footer-row {
-    padding-top:15px;}
+    padding-top:15px;
+}

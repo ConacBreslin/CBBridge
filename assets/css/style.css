@@ -221,7 +221,7 @@ Code snippet from https://css-tricks.com/  */
 
   #callout-maincontent a:hover {
       font-size: larger;
-      text-decoration: none;
+     
   }
 
 
@@ -252,6 +252,15 @@ Code snippet from https://css-tricks.com/  */
 
 .learn-table-heading {
     text-align: center;
+}
+
+.classes-table a {
+    color: #212529
+}
+
+
+.classes-table a:hover{
+    font-weight: bold;
 }
 /*---------------------Sign Up--------------------------*/
 

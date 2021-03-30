@@ -36,7 +36,7 @@ color: #c6c5b9;
 
 .btn-signup a:hover {
     color:#263538;
-font-size: larger;
+
 font-weight: bold;
 text-decoration: none;
 
@@ -149,6 +149,7 @@ text-decoration: none;
 .navbar-nav {
     text-align: center;
     font-size: 1.3rem;
+    
 }
 
 .navbar-brand a:hover {
@@ -158,6 +159,7 @@ text-decoration: none;
 
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(198, 197, 185, 1);
+     transition: all 0.25s ease 0s;
 }
 
 .navbar-nav a:hover {

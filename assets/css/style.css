@@ -270,6 +270,14 @@ select.form-select {
     width: 100%;
 }
 
+#signup-dropdown
+{ 
+    margin-top: 20px;
+}
+
+#radiobutton-name
+{
+    margin-bottom: 0.2rem;}
 
 /*---------------------Footer--------------------------*/
 

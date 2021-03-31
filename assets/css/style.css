@@ -54,6 +54,9 @@ text-decoration: none;
     font-size: 48px;
 }
 
+.empty-div 
+{padding: 30px 15px;}
+
 /*----------------------Table responsiveness snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css--------------------------*/
 .table-responsive {
     min-height: .01%;

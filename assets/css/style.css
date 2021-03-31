@@ -49,6 +49,11 @@ text-decoration: none;
 }
 
 
+.icon-size
+{
+    font-size: 48px;
+}
+
 /*----------------------Table responsiveness snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css--------------------------*/
 .table-responsive {
     min-height: .01%;
@@ -219,12 +224,11 @@ Code snippet from https://css-tricks.com/  */
     transition: all 0.25s ease 0s;
 }
 
-
-
 #callout-maincontent a:hover {
       font-size: 2rem;
       text-decoration:none;
 }
+
 
 
 mark {

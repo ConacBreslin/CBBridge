@@ -219,7 +219,8 @@ Code snippet from https://css-tricks.com/  */
 
 #callout-maincontent {
     margin-bottom: 30px;
-    background-color: rgba(38,53,56,0.3)
+    background-color: rgba(38,53,56,0.3);
+    font-size: 2rem;
 
 }
 
@@ -229,10 +230,17 @@ Code snippet from https://css-tricks.com/  */
     transition: all 0.25s ease 0s;
 }
 
+#callout-maincontent a:hover {
+    font-size: 2.5rem;
+    text-decoration: none;
+}
+
+
+/* 
 #callout-maincontent a:hover h3 {
       font-size: 2rem;
       text-decoration:none;
-}
+} */
 
 
 

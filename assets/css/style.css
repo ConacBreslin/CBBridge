@@ -209,6 +209,7 @@ Code snippet from https://css-tricks.com/  */
     color: #c6c5b9; 
 }
 
+
 #callout-header {
     margin-top: 25px;
     margin-bottom: 30px;
@@ -222,12 +223,13 @@ Code snippet from https://css-tricks.com/  */
 
 }
 
+
 #callout-maincontent a {
     color: #c6c5b9;
     transition: all 0.25s ease 0s;
 }
 
-#callout-maincontent a:hover {
+#callout-maincontent a:hover h3 {
       font-size: 2rem;
       text-decoration:none;
 }
@@ -238,6 +240,7 @@ mark {
         font-size: larger;
         background-color: #263538;
         color: #fdfdff;
+       
 }
 
 #intro-offer {
@@ -326,3 +329,4 @@ footer a:hover {
 #footer-row {
     padding-top:15px;
 }
+

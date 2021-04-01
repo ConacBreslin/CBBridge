@@ -258,8 +258,9 @@ label.form-label {
      margin-bottom: 20px;
  }
 
-.select {
-    margin-top: 20px;
+.form-group {
+    margin-bottom: 1rem;
+    margin-top: 25px;
 }
 
 /*---------------------Footer--------------------------*/

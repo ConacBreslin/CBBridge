@@ -299,6 +299,8 @@ select.form-select {
  .form-control {
      margin-bottom: 20px;
  }
+
+
 /*---------------------Footer--------------------------*/
 
 
@@ -330,5 +332,10 @@ footer a:hover {
 
 #footer-row {
     padding-top:15px;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-right: 60px;
 }
 

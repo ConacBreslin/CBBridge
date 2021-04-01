@@ -163,8 +163,9 @@ text-decoration: none;
     
 }
 
-.navbar-brand a:hover {
-    font-size: larger;
+.navbar-brand a image:hover {
+    height:160px ;
+    width: 180px;
 } 
 
 
@@ -236,13 +237,6 @@ Code snippet from https://css-tricks.com/  */
 }
 
 
-/* 
-#callout-maincontent a:hover h3 {
-      font-size: 2rem;
-      text-decoration:none;
-} */
-
-
 
 mark {
         font-size: larger;
@@ -294,7 +288,7 @@ select.form-select {
     margin-bottom: 0.2rem;}
 #signup-dropdown
 { 
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 

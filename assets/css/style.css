@@ -295,10 +295,8 @@ select.form-select {
 #radiobutton-name
 {
     margin-bottom: 0.2rem;}
-#signup-dropdown
-{ 
-    margin-top: 30px;
-}
+
+ 
 
 
 
@@ -309,9 +307,7 @@ select.form-select {
      margin-bottom: 20px;
  }
 
- #signup-dropdown-heading{
-     font-weight: 600;
- }
+
 
 
 /*---------------------Footer--------------------------*/

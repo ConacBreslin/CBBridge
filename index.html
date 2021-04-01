@@ -605,9 +605,10 @@
                     <input type="email" class="form-control" id="email" placeholder="E-mail Address" required>
                 </div>
                 <div class="col-6 col-lg-4">
+                <label for="form-check-input" class="form-label">I am interested in:</label>
                     <div class="form-check">
-                        <p id="radiobutton-name"><strong>I am interested in</strong></p>
-                        <input class="form-check-input" type="radio" name="whatwant" value="classes" id="classes" required>
+                    
+                      <input class="form-check-input" type="radio" name="whatwant" value="classes" id="classes" required>
                         <label class="form-check-label" for="classes">Classes
                         </label>
                     </div>
@@ -623,13 +624,18 @@
                             Both
                         </label>
                     </div>
-                    <select id="signup-dropdown" class="form-select" aria-label="Current knowledge level" required>
-                        <option selected id="signup-dropdown-heading">My level is</option>
+
+<div class="select">
+<label for="form-select" class="form-label">My level is:</label>
+                    <select class="form-select" aria-label="Current knowledge level" required>
+                      <label for="form-select" class="form-label">My level is:</label>
+                        
                         <option value="beginner">Complete Beginner</option>
                         <option value="novice">Novice</option>
                         <option value="intermediate">Intermediate</option>
                         <option value="advanced">Advanced</option>
                     </select>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4">
                     <div class="mb-3">

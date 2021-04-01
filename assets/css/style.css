@@ -163,11 +163,16 @@ text-decoration: none;
     
 }
 
-.navbar-brand a image:hover {
-    height:160px ;
-    width: 180px;
-} 
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand img {
+    transition: all 0.25s ease 0s;
+    
+}
 
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand img:hover {
+    color: #fff;
+    height: 85px;
+    width: 96px;
+}
 
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(198, 197, 185, 1);
@@ -222,6 +227,7 @@ Code snippet from https://css-tricks.com/  */
     margin-bottom: 30px;
     background-color: rgba(38,53,56,0.3);
     font-size: 2rem;
+    line-height: 4rem;
 
 }
 
@@ -300,6 +306,10 @@ select.form-select {
      margin-bottom: 20px;
  }
 
+ #signup-dropdown-heading{
+     font-weight: 600;
+ }
+
 
 /*---------------------Footer--------------------------*/
 
@@ -317,8 +327,9 @@ footer a {
 
 footer a:hover {
     color: #263538;
-    font-weight: bold;
+    font-weight: 600;
     text-decoration: none;
+    
 }
 
 
@@ -339,7 +350,15 @@ dl, ol, ul {
     margin-right: 60px;
 }
 
-.icon-size-footer {
-    font-size: 40px;
+.social-media-links li a i {
+    width: 45px;
+    height: 45px;
+    transition: all 0.25s ease 0s;
+
 }
 
+ 
+
+.social-media-links li a i:hover {
+    font-size: 2.5rem;
+}

@@ -226,11 +226,14 @@ Code snippet from https://css-tricks.com/  */
 #callout-maincontent {
     margin-bottom: 30px;
     background-color: rgba(38,53,56,0.3);
-    font-size: 2rem;
-    line-height: 2rem;
+    font-size: 32px;
+    line-height: 32px;
 
 }
 
+#about-bridge-row {
+    line-height: 120px;
+}
 
 #callout-maincontent a {
     color: #c6c5b9;

@@ -605,29 +605,29 @@
                     <input type="email" class="form-control" id="email" placeholder="E-mail Address" required>
                 </div>
                 <div class="col-6 col-lg-4">
-                <label for="form-check-input" class="form-label">I am interested in:</label>
+                
                     <div class="form-check">
                     
-                      <input class="form-check-input" type="radio" name="interestedin" value="classes" required>
+                      <input class="form-check-input" type="radio" name="interestedin" value="classes" id="classes" required>
                         <label class="form-check-label" for="classes">Classes
                         </label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="interestedin" value="play">
+                        <input class="form-check-input" type="radio" name="interestedin" value="play" id="play">
                         <label class="form-check-label" for="play">
                             Play
                         </label>
                     </div>
-                    <div class="form-check" aria-label="classes or play">
-                        <input class="form-check-input" type="radio" name="interestedin" value="both">
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="interestedin" value="both" id="both">
                         <label class="form-check-label" for="both">
                             Both
                         </label>
                     </div>
 
 <div class="select">
-<label for="form-select" class="form-label">My level is:</label>
-                    <select class="form-select" aria-label="Current knowledge level" required>
+<label for="currentlevel" class="form-label">My level is:</label>
+                    <select class="form-select" id="currentlevel" aria-label="Current knowledge level" required>
                       
                         <option selected disabled></option>
                         <option value="beginner" required>Complete Beginner</option>

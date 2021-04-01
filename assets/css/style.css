@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&family=Montserrat:wght@400;600&display=swap');
-
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css");
 
 /*----------------------General styles across site---------------------------*/
-
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -15,7 +13,7 @@ h1, h2 {
     margin-bottom:15px;
     }
 
-    
+ 
 .btn {
     color: #C6C5B9;
     background-color:#263538;
@@ -37,25 +35,22 @@ color: #c6c5b9;
 
 .btn-signup a:hover {
     color:#263538;
-
-font-weight: bold;
-text-decoration: none;
-
+    font-weight: bold;
+    text-decoration: none;
 }
-
 
 .text-container {
     background-color: rgba(198,197,185,0.5);
 }
-
 
 .icon-size
 {
     font-size: 48px;
 }
 
-.empty-div 
-{padding: 15px 15px;}
+.empty-div {
+    padding: 15px 15px;
+}
 
 /*----------------------Table responsiveness snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css--------------------------*/
 .table-responsive {
@@ -93,12 +88,10 @@ text-decoration: none;
     font-style: oblique;
 }
 
-
 .blockquote-footer{
     color: #000;
     float: right;
     font-size: 100%;
-
 }
 
 .inspirational-quote {  
@@ -106,17 +99,9 @@ text-decoration: none;
     color: #C6C5B9; 
 }
 
-
-
 .inspirational-quote .blockquote-footer{
     color:#fdfdff
 }
-
-
-
-
-
-
 
 /*----------------------Alert Section---------------------------*/
 
@@ -126,15 +111,11 @@ text-decoration: none;
     text-align: center;
     color: #263538;
     font-size: 1.5rem;
-   
-    
-
 }
 
 .alert {
     margin-bottom: 0;
 }
-
 
 .alert a {
     color: #263538;
@@ -147,25 +128,19 @@ text-decoration: none;
      text-decoration: none;
  }  
 
-
 .alert .close {
     font-size: 2.5rem
-    
-
-}
+ }
 
 /*----------------------Nav Bar---------------------------*/
-
 
 .navbar-nav {
     text-align: center;
     font-size: 1.3rem;
-    
 }
 
 .navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand img {
-    transition: all 0.25s ease 0s;
-    
+    transition: all 0.25s ease 0s;  
 }
 
 .navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand img:hover {
@@ -185,7 +160,6 @@ text-decoration: none;
      text-decoration: none;
  }  
 
-
 /*----------------------Callout---------------------------*/
 
 /* 
@@ -193,13 +167,8 @@ Code snippet from https://css-tricks.com/  */
 
 .callout-container {
     min-height: 100vh;
-
     background: url('../images/card-table.jpg') #263538 no-repeat center center ;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
+    background-size: cover; 
 }
 
 .callout-container h1{
@@ -215,12 +184,9 @@ Code snippet from https://css-tricks.com/  */
     color: #c6c5b9; 
 }
 
-
 #callout-header {
     margin-top: 25px;
-    margin-bottom: 30px;
-    
-    
+    margin-bottom: 30px;    
 }
 
 #callout-maincontent {
@@ -228,7 +194,6 @@ Code snippet from https://css-tricks.com/  */
     background-color: rgba(38,53,56,0.3);
     font-size: 32px;
     line-height: 32px;
-
 }
 
 #about-bridge-row {
@@ -245,30 +210,22 @@ Code snippet from https://css-tricks.com/  */
     text-decoration: none;
 }
 
-
-
 mark {
         font-size: larger;
         background-color: #263538;
-        color: #fdfdff;
-       
+        color: #fdfdff;     
 }
+
 #intro-offer {
     margin-top: 45px;
     margin-bottom: 30px;
 }
 
-
-
 /*----------------------About Bridge---------------------------*/
 
 .text-container {
     background-color: rgba(198,197,185,0.5);
-
 }
-
-
-
 
 /*---------------------Learn Bridge--------------------------*/
 
@@ -280,33 +237,26 @@ mark {
     color: #212529
 }
 
-
 .classes-table a:hover{
     font-weight: bold;
 }
 /*---------------------Sign Up--------------------------*/
 
-
-
 select.form-select {
     width: 100%;
 }
 
-#radiobutton-name
-{
-    margin-bottom: 0.2rem;}
+#radiobutton-name{
+    margin-bottom: 0.2rem;
+}
 
- 
-
-
-
-    label.form-label {
+label.form-label {
     font-weight: bold;
 }
+
  .form-control {
      margin-bottom: 20px;
  }
-
 
 .select {
     margin-top: 20px;
@@ -314,13 +264,9 @@ select.form-select {
 
 /*---------------------Footer--------------------------*/
 
-
-
 #links-list li {
      list-style-type: none;
 }
-
-
 
 footer a {
     color: #263538;
@@ -329,18 +275,14 @@ footer a {
 footer a:hover {
     color: #263538;
     font-weight: 600;
-    text-decoration: none;
-    
+    text-decoration: none; 
 }
-
 
 .social-media-links {
     font-size: 1.5rem;
 }
 
 .footer-container ul {padding-inline-start: 20px;}
-
-
 
 #footer-row {
     padding-top:15px;
@@ -355,10 +297,7 @@ dl, ol, ul {
     width: 45px;
     height: 45px;
     transition: all 0.25s ease 0s;
-
 }
-
- 
 
 .social-media-links li a i:hover {
     font-size: 2.5rem;

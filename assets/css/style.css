@@ -139,12 +139,11 @@ color: #c6c5b9;
     font-size: 1.3rem;
 }
 
-.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand img {
+.navbar-dark .navbar-brand img {
     transition: all 0.25s ease 0s;  
 }
 
-.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand img:hover {
-    color: #fff;
+.navbar-dark .navbar-brand img:hover {
     height: 85px;
     width: 96px;
 }
@@ -154,11 +153,13 @@ color: #c6c5b9;
      transition: all 0.25s ease 0s;
 }
 
-.navbar-nav a:hover {
+.navbar-dark .navbar-nav .nav-link:hover {
     color: rgba(198, 197, 185, 1);
-     font-size: larger;
-     text-decoration: none;
- }  
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration:none;
+}
+
 
 /*----------------------Callout---------------------------*/
 
@@ -206,7 +207,8 @@ Code snippet from https://css-tricks.com/  */
 }
 
 #callout-maincontent a:hover {
-    font-size: 2.5rem;
+    font-size: 40px;
+    font-weight: 600;
     text-decoration: none;
 }
 

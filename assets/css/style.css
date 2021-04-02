@@ -51,6 +51,10 @@ color: #c6c5b9;
 .empty-div {
     padding: 15px 15px;
 }
+#logo {
+    width: 90px;
+    height: 80px;
+}
 
 /*----------------------Table responsiveness snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css--------------------------*/
 .table-responsive {

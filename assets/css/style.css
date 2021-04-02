@@ -271,17 +271,23 @@ label.form-label {
      list-style-type: none;
 }
 
+footer {
+    background-color: #263538;
+    color: #c6c5b9;
+}
 footer a {
-    color: #263538;
+    color: #c6c5b9;
+    transition: all 0.25s ease 0s;
 }
 
 footer a:hover {
-    color: #263538;
+    color: #c6c5b9;
     font-weight: 600;
     text-decoration: none; 
 }
 
 .social-media-links {
+
     font-size: 1.5rem;
 }
 
@@ -303,6 +309,7 @@ dl, ol, ul {
 }
 
 .social-media-links li a i:hover {
+    color: #c6c5b9;;
     font-size: 2.5rem;
 }
  iframe {

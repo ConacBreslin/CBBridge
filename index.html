@@ -62,22 +62,16 @@
 
         </div>
     </nav>
-
-
     <!--        /NavBar     -->
-
-
 
     <!--        Callout     -->
     <article>
-        <header id="callout-header">
+        <header>
             <div class="container-fluid callout-container" aria-label="Background image of a card table">
                 <div class="row callout-headline">
                     <div class="col-12 text-center">
-
                         <h1>CBBridge</h1>
                         <h2>The friendly, sociable place to learn and play bridge</h2>
-
                     </div>
                 </div>
                 <div id="callout-maincontent">
@@ -172,7 +166,7 @@
                             twice. Bridge has been shown to exercise your brain – stimulating both sides! It is a unique
                             type of mental activity and a pastime that can last you a lifetime.</p>
                         <div class="text-center"><a class="btn btn-sm"
-                                href="https://howtoplaybridge.co.uk/why-play-bridge/" aria-label="Goes to How To play Bridge page (opens in new tab)" aria-label="Goes to howtoplaybridge.co.uk (opens in new tab)"  target="_blank">Find out more
+                                href="https://howtoplaybridge.co.uk/why-play-bridge/"  aria-label="Goes to howtoplaybridge.co.uk (opens in new tab)"  target="_blank">Find out more
                                 here</a>
                         </div>
                     </div>
@@ -620,35 +614,35 @@
                 <form method="POST" action="https://formdump.codeinstitute.net/">
                     <div class="row">
                         <div class="col-6 col-lg-4">
-                            <label for="firstname" class="form-label">First Name:</label>
-                            <input type="text" class="form-control" id="firstname" placeholder="First Name" required>
-                            <label for="surname" class="form-label">Surname:</label>
-                            <input type="text" class="form-control" id="surname" placeholder="Surname" required>
-                            <label for="email" class="form-label">Email</label>
-                            <input type="email" class="form-control" id="email" placeholder="E-mail Address" required>
+                            <label for="firstname" class="form-label" id="GivenName">First Name:</label>
+                            <input type="text" class="form-control" id="firstname" placeholder="First Name" aria-labelledby="SignUpForm GivenName" required>
+                            <label for="surname" class="form-label" id="LastName">Surname:</label>
+                            <input type="text" class="form-control" id="surname" placeholder="Surname" aria-labelledby="SignUpForm LastName" required>
+                            <label for="email" class="form-label" id="EmailAddress">Email</label>
+                            <input type="email" class="form-control" id="email" placeholder="E-mail Address" aria-labelledby="SignUpForm EmailAddress" required>
                         </div>
                         <div class="col-6 col-lg-4">
                             <div class="form-check">
                                 <p><strong>I am interested in</strong></p>
                                 <input class="form-check-input" type="radio" name="interestedin" value="classes"
-                                    id="classes" required>
-                                <label class="form-check-label" for="classes">Classes</label>
+                                    id="classes" aria-labelledby="WantClasses" required>
+                                <label class="form-check-label" for="classes" id="WantClasses">Classes</label>
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="interestedin" value="play" id="play">
-                                <label class="form-check-label" for="play">
+                                <input class="form-check-input" type="radio" name="interestedin" value="play" id="play" aria-labelledby="WantPlay">
+                                <label class="form-check-label" for="play" id="WantPlay">
                                     Play
                                 </label>
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="interestedin" value="both" id="both">
-                                <label class="form-check-label" for="both">
+                                <input class="form-check-input" type="radio" name="interestedin" value="both" id="both" aria-labelledby="WantBoth">
+                                <label class="form-check-label" for="both" id="WantBoth">
                                     Both
                                 </label>
                             </div>
                             <div class="form-group">
-                                <label for="currentlevel"><strong>My Level is</strong></label>
-                                <select class="form-control" id="currentlevel">
+                                <label for="currentlevel" id="MyLevelIs"><strong>My Level is</strong></label>
+                                <select class="form-control" id="currentlevel" aria-labelledby="MyLevelIs" required>
                                     <option selected disabled>Please choose...</option>
                                     <option>Complete Beginner</option>
                                     <option>Novice</option>
@@ -710,7 +704,7 @@
                 <div class="col-12 col-sm-6">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9541.740973323926!2d-6.12906!3d53.281738!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xda802e6b23338aaf!2sGlenageary%20Lawn%20Tennis%20Club!5e0!3m2!1sen!2sie!4v1617305411074!5m2!1sen!2sie"
-                        style="border:0;" allowfullscreen="" loading="lazy" aria-label="Google map to Glenageary Tennis Club"></iframe>
+                        style="border:0;" allowfullscreen="" loading="lazy" alts="Google map"></iframe>
                 </div>
             </div>
         </footer>

@@ -611,7 +611,7 @@
                         <caption class="text-center">Contact Us/Sign Up</caption>
                     </div>
                 </div>
-                <form method="POST" action="https://formdump.codeinstitute.net/">
+                <form method="POST" action="https://formdump.codeinstitute.net/"> <!-- formdump used from Code Institute Love Running Project -->
                     <div class="row">
                         <div class="col-6 col-lg-4">
                             <label for="firstname" class="form-label" id="GivenName">First Name:</label>
@@ -642,12 +642,12 @@
                             </div>
                             <div class="form-group">
                                 <label for="currentlevel" id="MyLevelIs"><strong>My Level is</strong></label>
-                                <select class="form-control" id="currentlevel" aria-labelledby="MyLevelIs" required>
+                                <select class="form-control" id="currentlevel" aria-labelledby="MyLevelIs" name="Level" required>
                                     <option selected disabled>Please choose...</option>
-                                    <option>Complete Beginner</option>
-                                    <option>Novice</option>
-                                    <option>Intermediate</option>
-                                    <option>Advanced</option>
+                                    <option value="beginner">Complete Beginner</option>
+                                    <option value="novice">Novice</option>
+                                    <option value="inter">Intermediate</option>
+                                    <option value="adv">Advanced</option>
                                 </select>
                             </div>
 

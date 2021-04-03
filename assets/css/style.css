@@ -57,9 +57,13 @@ color: #c6c5b9;
     height: 80px;
 }
 
-caption {
+.table-heading {
     font-family: 'Comfortaa', cursive;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
 }
+
 /*----------------------Table responsiveness snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css--------------------------*/
 .table-responsive {
     min-height: .01%;
@@ -147,21 +151,21 @@ caption {
     font-size: 1.3rem;
 }
 
-.navbar-dark .navbar-brand img#logo {
+ .navbar-brand img#logo {
     transition: all 0.25s ease 0s;  
 }
 
-.navbar-dark .navbar-brand img#logo:hover {
+ .navbar-brand img#logo:hover {
     height: 85px;
     width: 96px;
 }
 
-.navbar-dark .navbar-nav .nav-link {
+ .nav-link {
     color: rgba(198, 197, 185, 1);
      transition: all 0.25s ease 0s;
 }
 
-.navbar-dark .navbar-nav .nav-link:hover {
+ .nav-link:hover {
     color: rgba(198, 197, 185, 1);
     font-size: 24px;
     font-weight: 600;

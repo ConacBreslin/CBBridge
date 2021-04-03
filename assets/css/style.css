@@ -9,7 +9,7 @@ body {
 
 h1, h2 { 
     font-family: 'Comfortaa', cursive;
-    margin-top: 45px;
+    margin-top: 30px;
     margin-bottom:15px;
     font-weight: 600;
     }
@@ -147,11 +147,11 @@ caption {
     font-size: 1.3rem;
 }
 
-.navbar-dark .navbar-brand img {
+.navbar-dark .navbar-brand img#logo {
     transition: all 0.25s ease 0s;  
 }
 
-.navbar-dark .navbar-brand img:hover {
+.navbar-dark .navbar-brand img#logo:hover {
     height: 85px;
     width: 96px;
 }

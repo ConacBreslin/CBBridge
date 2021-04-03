@@ -326,3 +326,24 @@ dl, ol, ul {
      width: 100%;
      
  }
+
+ /*---------------------Modal--------------------------*/
+
+
+ .modal {
+      background-color: rgba(198,197,185,0.5);
+ }
+ .modal-header {
+     color:#263538;
+     background-color: rgba(198,197,185,0.5);
+     text-align: center;
+ }
+ .modal-body {
+     color: #C6C5B9;
+     background-color: #263538;
+     text-align: center;
+ }
+ 
+ .modal-footer {
+     background-color: rgba(198,197,185,0.5);
+ }

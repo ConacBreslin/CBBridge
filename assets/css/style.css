@@ -9,8 +9,9 @@ body {
 
 h1, h2 { 
     font-family: 'Comfortaa', cursive;
-    margin-top: 15px;
+    margin-top: 45px;
     margin-bottom:15px;
+    font-weight: 600;
     }
 
  
@@ -18,7 +19,7 @@ h1, h2 {
     color: #C6C5B9;
     background-color:#263538;
     border-color: #C6C5B9;
-    margin-bottom: 2rem;
+    margin: 32px 0;
     border-radius: 12px;
     transition: all 0.25s ease 0s;
 
@@ -56,6 +57,9 @@ color: #c6c5b9;
     height: 80px;
 }
 
+caption {
+    font-family: 'Comfortaa', cursive;
+}
 /*----------------------Table responsiveness snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css--------------------------*/
 .table-responsive {
     min-height: .01%;
@@ -216,12 +220,13 @@ Code snippet from https://css-tricks.com/  */
 mark {
         font-size: larger;
         background-color: #263538;
-        color: #fdfdff;     
+        color: #fdfdff; 
+       
 }
 
 #intro-offer {
-    margin-top: 45px;
-    margin-bottom: 30px;
+    margin-top: 100px;
+    margin-bottom: px;
 }
 
 /*----------------------About Bridge---------------------------*/

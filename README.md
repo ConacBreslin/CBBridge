@@ -106,7 +106,7 @@ CSS3
 <li><a href="https://fonts.google.com/">Google Fonts</a> was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.</li>
 <li><a href="https://logo.zyro.com">zyro.com</a> was used to create the logo</li>
 <li><a href="https://icons.getbootstrap.com/">Bootstrap icons</a> was used to import the icons</li>
-<li><a href="https://www.online-image-editor.com/">online-image-editor.com/</a> was sued to edit images</li>
+<li><a href="https://www.online-image-editor.com/">online-image-editor.com/</a> was used to edit images</li>
 <li><a href="https://tinypng.com/">tinypng.com</a> was used to resize images</li>
 <li>Pixillion image conversion software from <a href="https://www.nchsoftware.com/imageconverter/index.html">nchsoftware.com</a> was used to create the favicon</li>
 <li><a href="https://www.101computing.net/html-how-to-add-a-favicon/">101computing.net</a> was used to help insert the favicon</li>
@@ -125,8 +125,7 @@ Testing User Stories from User Experience (UX) Section
 <h2>Manual Testing</h2>
 <p>
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.A large amount of testing was done to ensure that all pages were linking correctly.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
+The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. THe code was submitted fro peer-review in slack.com (LINK)
 [Log of manual testing](“”)
 </p>
 <h2>Code Validation.</h2>
@@ -143,8 +142,7 @@ The site’s css validation was tested repeatedly by
 </p>
 <h2>Lighthouse Audits</h2>
 <p>
-The site’s , 
-The site’s css performance, accessibility, ?? and SEO was tested repeatedly by 
+The site’s Performance, Accessibility, Best Practices and SEO were auditted repeatedly by 
 <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Chrome Lighthouse</a> and the results of these logs and fixes are documented <a href="">here</a>
 
 </p>

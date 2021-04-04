@@ -1,207 +1,185 @@
-This Project will create a website to attract potential and existing bridge players to sign up a to a bridge club called CBBridge
+CBBridge Website
 
 
+This website was designed for a ficticious Bridge Club called CBBridge. Its aim is to create an online presence and attract potential students and players into the club.
 
+Bridge is a popular card game played by many people but suffers from a poor image The idea was to advertise the CBBridge club in a contemporary and user-friendly way, to address barriers people may encounter to starting to learn or play and to get potential students and players to join.
 
-PICTURE OF FINISHED WEBPAGE AND LINK TO DEPLOYMENT HERE
+PICTURE OF RESPONSIVENES HERE
+[View the deployed site here.]( https://conacbreslin.github.io/CBBridge/)
 
-
-
-
-UX
-The User visiting this page would be a person wanting to learn bridge, or an existing bridge player looking for somewhere to play bridge. On visiting the site they should be able to 
-(i)	Understand content/layout of webpage from index page
-(ii)	Navigate to find out information about Bridge in general
-(iii)	Navigate to Bridge classes information and from there sign up for classes
-(iv)	Navigate to information on Bridge play and sign up to play from there
-(v)	Navigate to the Contact form and send information from there
-(vi)	Return to start of page from all sections
-
+User Experience (UX)
+A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
+On visiting the site they should be able to 
+(i)	Understand the purpose of the site 
+(ii)	Understand the content/layout of webpage from the main page
+(iii)	Easily navigate to find out information about Bridge in general
+(iv)	Easily navigate to find out information on Bridge classes sign up for them
+(v)	Easily navigate to information on Bridge play and sign up to play 
+(vi)	Easily navigate to the Contact form and send information from there
+(vii)	Easily return to the main page from all sections
 
 Strategy 
-The website is designed for a bridge club that wants to create an online presence to attract students and players to sign up to their club for lessons or to play. 
-It is aimed at people who are thinking about starting the game of bridge and at people who can play bridge and are looking for a place to play. 
 A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called ‘Bridgewebs.com’. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
-Online brainstorming sessions were undertaken with 2 groups of people. One who do not play bridge, and one who do. These sessions resulted in 3 broad categories of information that it was felt would be helpful towards the development of the website.
-
-
-
-
-
-
-Barriers that prevent people starting bridge include;
-1.	Demographics (Most people think all Bridge players are old!)
-2.	Bridge is perceived as dull or boring
-3.	Bridge is perceived as being complicated and difficult to learn
-4.	Bridge is perceived as taking a long time to learn
-5.	There is a fear of failure
-6.	There is a lack of awareness about Bridge
-
-
-
-
-
-
-
-
-The reasons motivating people to take up Bridge include;
-1.	Social activity with friends/family
-2.	Mental Stimulation
-3.	Lifelong hobby
-
-
-
-
-
-
-
-
-
-
-
-
-The reasons why people who play bridge love it include;
-1.	It is intellectually stimulating
-2.	It is mentally absorbing 
-3.	It is social
-4.	It is fun
-5.	It is a life-long hobby  
-6.	It is a cheap pastime
-7.	It is easily accessible
-
-
-
-
-
-It was obvious from this research that, as well as providing information about bridge classes and play, the website would need to address the barriers to taking up bridge and emphasize the positive aspects of learning and playing bridge.
-The website would need to; 
-1.	Explain what bridge entails and try to address some of the barriers to taking up bridge 
-2.	Highlight the positive aspects of bridge (intellectual, mental, social, fun, life-long, cheap and accessible)  
-3.	Encourage beginners to start lessons by focussing on the factors that motivate people to start bridge
-4.	Encourage players to play with us by emphasising the positive aspects of the club and additional dimensions of the club (events, online activities).
-5.	Provide visitors with a means of signing up on the website.
-6.	Provide interactive activities to retain interest.
-
- 
-
-The websites opportunities to meet these needs were listed with the associated feasibility of achieving these for an initial release.
+Following background research with both bridge players and non-bridge players [see process this [here](“assets/ background-research/XXX.pdf). It was felt that the website needed to address the following 3 areas.
+1.	Addressing the barriers to starting bridge.
+2.	Providing information on classes and the ability to sign up.
+3.	Providing information on play and the ability to signup.
+In addition it was felt that the site would need interactive features to engage visitors and encourage them to return to the site.
+The websites opportunities to meet these needs are listed with the associated feasibility of achieving these for an initial release.
 
 	Importance	Feasibility
 Create an online presence
 	5	5
 Address barriers to starting Bridge
 	4	5
-Provide information on lessons/play
-5	5
+Provide information on lessons/play	5	5
 Recruit students and players
 	5	5
 Online   Discussion forum for bridge problems	3	1
-Interactive bridge hands and quizzes
-4	1
+Interactive bridge hands and quizzes	4	1
 Integration with existing online bridge platforms	4	0
 
-
-
-These were plotted to help decide which are best included in the initial release.
-
+These were plotted to help decide which would be included in the initial release.
  
 
-From this assessment it seems obvious that the features to be included in the first release should include 
-
+Consequently the opportunities to be included in the first release included
 1.	Creating an online presence
 2.	Addressing barriers to starting bridge
-3.	Provide information on lessons/play
-4.	Provide opportunity to recruit students and players
+3.	Providing information on lessons/play
+4.	Providing an opportunity to recruit students and players
 
-Objective Requirements;  	The user will want to enrol in Bridge classes or Bridge play.
+Objective Requirements;  The user will want to enrol in Bridge classes or Bridge play.
 Functional requirements; 	To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website. 
 Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.
 Business rule requirements; The site will conform to data protection regulations
 
 Structure
-It is anticipated that the quantity of information on this website will be not be extensive the demographic coming to the site might not be very technologically advanced and so a single page linear structure should suffice. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both. 
+As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both. 
 
 Skeleton 
-The page will start with a navigation bar followed by a simple hero image with immediate links to classes and play. This will be followed by a section about bridge in general which is aimed at addressing some of the barriers people have to starting Bridge. This will be followed by a section giving details about classes with an option to sign-up, and then a similar section for play. Finally, there will be a contact form for additional queries and a footer with information, social media links and a map. These are laid out in the Balsamiq wireframe below.
-The site will have a modal addressing the adaption of the club during COVID-19 restrictions.
+The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up.  with an option to sign-up, and then a similar section for play. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile,]( “assets/wireframes/mobile”), [mediumscreens](“assets/wireframes/medium”),  and [largescreens.]( “assets/wireframes”)
+The site has a modal addressing the adaption of the club during COVID-19 restrictions.
+Surface/Design
+-	Imagery The hero image was a key aspect of the site it was found in [nsplash.com](“linkhere”) and was chosen to convey a contemporary, modern feel.
+-	Colour scheme [imagecolorpicker.com](“linkhere”) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](“linkhere”) to generate a colour palette than was felt to be contemporary and subtle.
+-	Typography. The Comfortaa font was selected in [Google fonts](“linkhere”)for its clarity and contemporary feels and google font suggested Montserrat as an accompanying font and Its simplicity was appealing.
+
+Features
+
+Responsiveness on all device sizes.
+
+The Alert banner disappears on small screens.
+
+The Navbar collapses and dismisses on tap on small screens.
+
+The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.
+
+The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information.
+
+The Learn Bridge with Us section gives information on all aspects of classes.
+
+The Play Bridge with US section gives information on all aspects of play.
+
+-	The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
 
 
 
+Future features
 
-Surface 
-Fonts used; Xx from Google Fonts
-Colour schemes;
-https://imagecolorpicker.com/ was used to identify the colour from the hero image that was used to generate a colour palette.
-https://coolors.co/ was used to generate a colour palette from the colour selected from the hero image
- 
-
-
-
+In the future it would be anticipated that the site might
+-	Have less text in sections that can be truncated with an ellipsis and a ‘read more’ option
+-	Provide a members’ section that could be logged in to.
+-	Provide an online discussion forum for bridge problems
+-	Provide interactive bridge hands and quizzes
+-	Integrate on with existing online bridge platforms such as [bridgebaseonline](“linkhere”) and [realbridge](“linkhere”).
 
 
-Technology;; HTML5, CSS, Bootstrap, Font Awesome, Google fontst
-https://fonts.google.com/
-Images Used.
-Cards Photo: Photo by Jarosław Kwoczała on Unsplash
-Lady-one photo: Photo by Kayla Farmer on Unsplash
-Man-one Photo: Photo by Can yılmaz on Unsplash
+Languages used
+[HTML5](“”)
+[CSS3](“”)	
 
-Lady-two photo:  Photo by Anderson Guerra from Pexels
-
-Man-two photo; Photo by Italo Melo from Pexels
- 
-I used a code snippet from stackoverflow.com to help me with my media objects.
-
-I used a code snippet from https://css-tricks.com/ for my background image
-
-The logo was created on https://logo.zyro.com/
-
-I used a code snippet from https://daily-dev-tips.com/posts/css-truncate-text-with-ellipsis/ 
-
-Images were  edited in https://www.online-image-editor.com/
-
-I created my favicon in Pixillion by nchsoftware.com
-
-I got help with finding out how to insert a favicon from https://www.101computing.net/html-how-to-add-a-favicon/
-
-Image sixes were reduced using https://tinypng.com/
-
- Iframe map was created in https://www.maps.ie/create-google-map/
-
-Table made responsive by code snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css
-Future features;
-Future features that could be added to the website include design options beyond difficulties implementing would be those identified in the Strategy Plane but were not feasible in this release and design items that need increased technical ability.
-That is 
-1.Provision of an online discussion forum for bridge problems.
-2. Providing interactive bridge hands and quizzes
-3. Integrating the website with existing online bridge platforms e.g. Bridge Base Online and RealBridge
-4. Wanted to make the about bridge sections to contain more text and end with ellipsis and ‘Read More’ option but did not have technical ability and would add
-
-
-
+Frameworks, Libraries and online resources used
+[Bootstrap 4.6.1](“”)		Was used to help keep design responsive and to help styling.
+[Google Fonts](“”)		Was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
+[Bootstrap Icons](“”)			Was used to import the icons into the style.css file.
+[zyro](“ https://logo.zyro.com”)	Was used to create the logo
+[css-tricks](“https://css-tricks.com/”)	Was used to import the background image
+[online-image-editor](“”):	Was used to edit images
+[Pixillion](“”):		Was used to create the favicon
+[tinypng](“”):		Was Used to reduce size of images
+[codeply.com](“”):	Was used to cause 	dismiss-on-tap
+[www.101.computing.net](“”):	Was used to help inset the favicon	
+[jQuery](“”):	 came with Bootstrap to make the navbar response
+[Git](“”):	Git pod was used for committing and pushing to Git, Git was used for version control.
+[GitHub](“”):	Was used for storing the code after being pushed from Git
+[Balsamiq](“”)		Was used to create the wireframes:
+[stackoverflow](“”):		Was used for media object and to manage testing
+[ourcodeworld.com](“”):		Was used to make tables responsive
 
 Testing
-Validator Testing
+Testing User Stories from User Experience (UX) Section
 
-Performance testing
+Manual Testing
+The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.A large amount of testing was done to ensure that all pages were linking correctly.
+Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
+[Log of manual testing](“”)
+Code Validation.
+The site’s html validation was tested by direct input into [validator.w3.org/](“https://validator.w3.org/”)
+[Log of validator.w3.org testing](“”)
 
-Manual testing
+Style validation
+The site’s css validation was tested by 
+[jigsaw.w3.org](“https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/”)
+[Log of jigsaw.w3.org testing](“”)
 
-Feature testing
+Lighthouse Audits
+The site’s performance, accessibility, 
+[Log of lighthouse testing](“”)
 
-User story testing
 
-Bugs record
+Known Bugs
 
-Deployment
 
+Deploymen
+CiitHub Pages
+The project was deployed to GitHub Pages in the following way. 
+1.	Log in to GitHub and locate the [GitHub](“ https://github.com/”)   
+2.	At the top of the Repository locate the "Settings" Button on the menu.
+3.	Scroll down the Settings page to the "GitHub Pages" Section.
+4.	Under "Source", click the dropdown called "None" and select "Master Branch".
+5.	The page automatically refreshes.
+6.	Scroll back down through the page to locate [link to the published site](“ https://conacbreslin.github.io/CBBridge/”)  in the "GitHub Pages" section.
+Forking the GitHub Repository
+The  GitHub Repository can be forked to make a copy of the original repository on the GitHub account to view and/or make changes without affecting the original repository in the following way.
+1.	Log in to GitHub and locate the [GitHub Repository](“ https://github.com/ConacBreslin/CBBridge”) 
+2.	At the top of the Repository (not top of page) above the "Settings" Button and over to the left locate the "Fork" Button.
+3.	You should now have a copy of the original repository in your GitHub account.
+
+Making a Local Clone
+1.	Log in to GitHub and locate the [GitHub Repository](“ https://github.com/ConacBreslin/CBBridge”) 
+2.	Under the repository name, click the dropdown button marked “Code” and then select "Clone or download".
+3.	To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4.	Open Git Bash
+5.	Change the current working directory to the location where you want the cloned directory to be made.
+6.	Type git clone, and then paste the URL copied in Step 3.
+7.	Press Enter and the local clone will be created
 
 Credits
+Background image:	Photo by Jarosław Kwoczała on Unsplash
+Lady-one photo: 	Photo by Kayla Farmer on Unsplash
 
-Acknowledgements 
-Many thanks to the always helpful and supportive tutors at Code institute; in particular Alan, Miklos, Tim, Jo, Igor
-Deployment.
-The project was deployed using GitHub. The code, written in Gitpod, was pushed to GitHub. From the settings tab of my repository in GitHub by scrolling to ‘GutHUb Pages’ and  selecting tand saving he master branch GItHub  created the page 
-https://conacbreslin.github.io/CBBridge/
+Man-one Photo: 	Photo by Can yılmaz on Unsplash
 
-on my repository then navigating to "Github pages" Changing the source from none to master, this then deployed a link that can be found here : https://nemixu.github.io/Milestone1/
+Lady-two photo:  	Photo by Anderson Guerra from Pexels
+
+Man-two photo; 	Photo by Italo Melo from Pexels
+
+Content:
+All content was written by the developer
+
+Acknowledgements.
+I would like to thank my mentor Chris Quinn for sound advice and support
+I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Ti, Jo, Igor and Fatima.
+My family and friends for support and feedback and in particular the hilarious  [comments about bridge](“”) that continually cheered me up!

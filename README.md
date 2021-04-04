@@ -98,70 +98,62 @@ CSS3
 </p>
 <h2>Frameworks, Libraries and online resources used</h2>
 <ul>
-<li><a href="https://getbootstrap.com/">Bootstrap 4.6.1</a> Was used to help keep design responsive and to help styling.</li>
-<li><a href="https://fonts.google.com/">Google Fonts</a> Was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.</li>
-<li><a href="https://logo.zyro.com">zyro.com</a> Was used to create the logo</li>
-<li><a href="https://icons.getbootstrap.com/">Bootstrap icons</a> Was used to import the icons</li>
-<li><a href="https://www.online-image-editor.com/">online-image-editor.com/</a></li>
-<li>Pixillion image conversion software from <a href="https://www.nchsoftware.com/imageconverter/index.html">nchsoftware.com</a> Was used to create the favicon</li>
-<li>code from<a href="https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css">ourcodeworld.com</a> Was used to make the tables responsive</li>
-<li>Pixillion image converter software from<a href="">nchsoftware.com</a></li>
-<li>code from <a href="https://css-tricks.com/">css-tricks.com</a>Was used to import the background image</li>
-<li>code from <a href="https://www.codeply.com/go/PqIBtz3HPL">codeply.com</a>Was used to create	dismiss-on-tap</li>
-<li><a href="">jQuery</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>>
-<li><a href=""></a></li>
-</ul>
-[<li><a href=""></a></li>](“”)		       
-[](“”)		            
-[Bootstrap Icons](“”)			    
-[zyro](“ https://logo.zyro.com ”)	
-[css-tricks](“https://css-tricks.com/”)	
-[](“”):		        
-[tinypng](“”):		        Was Used to reduce size of images
-[codeply.com](“”):	        Was used to cause 	dismiss-on-tap
-[www.101.computing.net](“”):	Was used to help inset the favicon	
-[jQuery](“”):	 came with Bootstrap to make the navbar response
-[Git](“”):	Git pod was used for committing and pushing to Git, Git was used for version control.
-[GitHub](“”):	Was used for storing the code after being pushed from Git
-[Balsamiq](“”)		Was used to create the wireframes:
-[stackoverflow](“”):		Was used for media object and to manage testing
-[ourcodeworld.com](“”):		Was used to make tables responsive
+<li><a href="https://balsamiq.com/wireframes/">Balsamiq</a> was used to create the wireframes</li>
+<li><a href="">Git</a></li>
+<li><a href="">GitHub</a> was used for storing the code after being pushed from Git</li>
+<li><a href="https://getbootstrap.com/">Bootstrap 4.6.1</a> was used to help keep design responsive and to help styling.</li>
+<li><a href="https://jquery.com/">jQuery</a> came with Bootstrap to make the navbar response/li>
+<li><a href="https://fonts.google.com/">Google Fonts</a> was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.</li>
+<li><a href="https://logo.zyro.com">zyro.com</a> was used to create the logo</li>
+<li><a href="https://icons.getbootstrap.com/">Bootstrap icons</a> was used to import the icons</li>
+<li><a href="https://www.online-image-editor.com/">online-image-editor.com/</a> was sued to edit images</li>
+<li><a href="https://tinypng.com/">tinypng.com</a> was used to resize images</li>
+<li>Pixillion image conversion software from <a href="https://www.nchsoftware.com/imageconverter/index.html">nchsoftware.com</a> was used to create the favicon</li>
+<li><a href="https://www.101computing.net/html-how-to-add-a-favicon/">101computing.net</a> was used to help insert the favicon</li>
+<li>code from<a href="https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css">ourcodeworld.com</a> was used to make the tables responsive</li>
+<li>code from <a href="https://css-tricks.com/">css-tricks.com</a> was used to import the background image</li>
+<li>code from <a href="https://www.codeply.com/go/PqIBtz3HPL">codeply.com</a> was used to create	dismiss-on-tap</li>
+<li>code from <a href="">stackoverflow.com</a> was used for media object and finding fixes for bugs</li>
 </ul>
 
+<h2>Testing</h2>
+<p>
 
-Testing
+
 Testing User Stories from User Experience (UX) Section
-
-Manual Testing
+</p>
+<h2>Manual Testing</h2>
+<p>
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.A large amount of testing was done to ensure that all pages were linking correctly.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
 [Log of manual testing](“”)
-Code Validation.
-The site’s html validation was tested by direct input into [validator.w3.org/](“https://validator.w3.org/”)
-[Log of validator.w3.org testing](“”)
+</p>
+<h2>Code Validation.</h2>
+<p>
+The site’s html validation was tested repeatedly by direct input into
+<a href="https://validator.w3.org/">validator.w3.org</a> and the results of these logs and fixes are documented <a href="">here</a>
+</p>
 
-Style validation
-The site’s css validation was tested by 
-[jigsaw.w3.org](“https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/”)
-[Log of jigsaw.w3.org testing](“”)
+<h2>Style validation</h2>
+<p>
+The site’s css validation was tested repeatedly by 
+<a href="https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/">jigsaw.w3.org</a> and the results of these logs and fixes are documented <a href="">here</a>
 
-Lighthouse Audits
-The site’s performance, accessibility, 
-[Log of lighthouse testing](“”)
+</p>
+<h2>Lighthouse Audits</h2>
+<p>
+The site’s , 
+The site’s css performance, accessibility, ?? and SEO was tested repeatedly by 
+<a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Chrome Lighthouse</a> and the results of these logs and fixes are documented <a href="">here</a>
+
+</p>
+
+<h2>Known Bugs</h2>
 
 
-Known Bugs
-
-
-Deployment
-CiitHub Pages
+<h2>Deployment</h2>
+<p>GitHub Pages
 The project was deployed to GitHub Pages in the following way. 
 1.	Log in to GitHub and locate the [GitHub](“ https://github.com/”)   
 2.	At the top of the Repository locate the "Settings" Button on the menu.
@@ -183,8 +175,10 @@ Making a Local Clone
 5.	Change the current working directory to the location where you want the cloned directory to be made.
 6.	Type git clone, and then paste the URL copied in Step 3.
 7.	Press Enter and the local clone will be created
-
-Credits
+</p>
+<h2>
+Credits</h2>
+<p>
 Background image:	Photo by Jarosław Kwoczała on Unsplash
 Lady-one photo: 	Photo by Kayla Farmer on Unsplash
 
@@ -193,15 +187,15 @@ Man-one Photo: 	Photo by Can yılmaz on Unsplash
 Lady-two photo:  	Photo by Anderson Guerra from Pexels
 
 Man-two photo; 	Photo by Italo Melo from Pexels
+</p>
+<h2>Content</h2>
+<p>All content was written by the developer</p>
 
-Content:
-All content was written by the developer
-
-Acknowledgements.
-I would like to thank my mentor Chris Quinn for sound advice and support
-I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Ti, Jo, Igor and Fatima.
-My family and friends for support and feedback and in particular the hilarious  [comments about bridge](“”) that continually cheered me up!
-
+<h2>Acknowledgements</h2>
+<p>I would like to thank my mentor Chris Quinn for sound advice and support
+I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Tim, Jo, Igor and Fatima.
+My family and friends for support and feedback and in particular the hilarious  <a href="assets/pdfs/background-research">comments about bridge</a> that always ade me laugh!
+</p>
 </article>
 </body>
 </html>

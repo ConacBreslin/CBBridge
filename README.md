@@ -13,6 +13,7 @@ Bridge is a popular card game played by many people but suffers from a poor imag
 PICTURE OF RESPONSIVENES HERE>
 <a href="https://conacbreslin.github.io/CBBridge/">View the deployed site here</a>
 
+
 <h2>User Experience (UX)</h2>
 <p>A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
 On visiting the site they should be able to 
@@ -36,7 +37,7 @@ Following background research with both bridge players and non-bridge players <a
 </ol>
 In addition it was felt that the site would need interactive features to engage visitors and encourage them to return to the site.
 The websites opportunities to meet these needs are listed with the associated feasibility of achieving these for an initial release.
-These were plotted to help decide which would be included in the initial release <a href="assets/pdfs/importance-feasibility.pdf"></a>
+These were plotted to help decide which would be included in the initial release <a href="assets/pdfs/importance-feasibility.pdf">(see results here)</a>
  
 Consequently the opportunities to be included in the first release included
 <ul>
@@ -91,10 +92,11 @@ The site has a modal addressing the adaption of the club during COVID-19 restric
 </ul>
 </p>
 <h2>Languages used</h2>
-HTML5
-[CSS3](“”)	
-
-Frameworks, Libraries and online resources used
+<p>HTML5
+<br>
+CSS3
+</p>
+<h2>Frameworks, Libraries and online resources used</h2>
 [Bootstrap 4.6.1](“”)		        Was used to help keep design responsive and to help styling.
 [Google Fonts](“”)		            Was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
 [Bootstrap Icons](“”)			    Was used to import the icons into the style.css file.

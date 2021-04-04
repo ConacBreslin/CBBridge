@@ -62,7 +62,7 @@ The site has a modal addressing the adaption of the club during COVID-19 restric
 <ul>
 <li>Imagery The hero image was a key aspect of the site it was found in <a href="https://unsplash.com/">unsplash.com</a> and was chosen to convey a contemporary, modern feel.</li>
 <li>Colour scheme <a href="https://imagecolorpicker.com/">IMAGECOLORPICKER.com</a> was used to find the hex value of the backgound colour in the hero image and this was used in <a href="https://coolors.co/">coolor.co</a> to generate <a href="assets/images/colour-palette.png">this colour palette</a>. which was felt to be contemporary and subtle.</li>
-<li>Typography. The Comfortaa font was selected in [Google fonts](“linkhere”)for its clarity and contemporary feels and google font suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
+<li>Typography. The Comfortaa font was selected in<a href="https://fonts.google.com/">Google fonts</a> for its clarity and contemporary feel and google font suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
 </ul>
 </p>
 <h2>Features</h2>
@@ -97,13 +97,32 @@ The site has a modal addressing the adaption of the club during COVID-19 restric
 CSS3
 </p>
 <h2>Frameworks, Libraries and online resources used</h2>
-[Bootstrap 4.6.1](“”)		        Was used to help keep design responsive and to help styling.
-[Google Fonts](“”)		            Was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
-[Bootstrap Icons](“”)			    Was used to import the icons into the style.css file.
-[zyro](“ https://logo.zyro.com”)	Was used to create the logo
-[css-tricks](“https://css-tricks.com/”)	Was used to import the background image
-[online-image-editor](“”):	        Was used to edit images
-[Pixillion](“”):		        Was used to create the favicon
+<ul>
+<li><a href="https://getbootstrap.com/">Bootstrap 4.6.1</a> Was used to help keep design responsive and to help styling.</li>
+<li><a href="https://fonts.google.com/">Google Fonts</a> Was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.</li>
+<li><a href="https://logo.zyro.com">zyro.com</a> Was used to create the logo</li>
+<li><a href="https://icons.getbootstrap.com/">Bootstrap icons</a> Was used to import the icons</li>
+<li><a href="https://www.online-image-editor.com/">online-image-editor.com/</a></li>
+<li>Pixillion image conversion software from <a href="https://www.nchsoftware.com/imageconverter/index.html">nchsoftware.com</a> Was used to create the favicon</li>
+<li>code from<a href="https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css">ourcodeworld.com</a> Was used to make the tables responsive</li>
+<li>Pixillion image converter software from<a href="">nchsoftware.com</a></li>
+<li>code from <a href="https://css-tricks.com/">css-tricks.com</a>Was used to import the background image</li>
+<li>code from <a href="https://www.codeply.com/go/PqIBtz3HPL">codeply.com</a>Was used to create	dismiss-on-tap</li>
+<li><a href="">jQuery</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>>
+<li><a href=""></a></li>
+</ul>
+[<li><a href=""></a></li>](“”)		       
+[](“”)		            
+[Bootstrap Icons](“”)			    
+[zyro](“ https://logo.zyro.com ”)	
+[css-tricks](“https://css-tricks.com/”)	
+[](“”):		        
 [tinypng](“”):		        Was Used to reduce size of images
 [codeply.com](“”):	        Was used to cause 	dismiss-on-tap
 [www.101.computing.net](“”):	Was used to help inset the favicon	
@@ -113,6 +132,8 @@ CSS3
 [Balsamiq](“”)		Was used to create the wireframes:
 [stackoverflow](“”):		Was used for media object and to manage testing
 [ourcodeworld.com](“”):		Was used to make tables responsive
+</ul>
+
 
 Testing
 Testing User Stories from User Experience (UX) Section

@@ -1,97 +1,97 @@
-CBBridge Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+<article>
 
+<h1>CBBridge Website</h1>
 
-This website was designed for a ficticious Bridge Club called CBBridge. Its aim is to create an online presence and attract potential students and players into the club.
+<p>This website was designed for a ficticious Bridge Club called CBBridge. Its aim is to create an online presence and attract potential students and players into the club.
+Bridge is a popular card game played by many people but suffers from a poor image The idea was to advertise the CBBridge club in a contemporary and user-friendly way, to address barriers people may encounter to starting to learn or play and to get potential students and players to join.</p>
+<img src=""
+PICTURE OF RESPONSIVENES HERE>
+<a href="https://conacbreslin.github.io/CBBridge/">View the deployed site here</a>
 
-Bridge is a popular card game played by many people but suffers from a poor image The idea was to advertise the CBBridge club in a contemporary and user-friendly way, to address barriers people may encounter to starting to learn or play and to get potential students and players to join.
-
-PICTURE OF RESPONSIVENES HERE
-[View the deployed site here.]( https://conacbreslin.github.io/CBBridge/)
-
-User Experience (UX)
-A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
+<h2>User Experience (UX)</h2>
+<p>A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
 On visiting the site they should be able to 
-(i)	    Understand the purpose of the site 
-(ii)	Understand the content/layout of webpage from the main page
-(iii)	Easily navigate to find out information about Bridge in general
-(iv)	Easily navigate to find out information on Bridge classes sign up for them
-(v)	    Easily navigate to information on Bridge play and sign up to play 
-(vi)	Easily navigate to the Contact form and send information from there
-(vii)	Easily return to the main page from all sections
-
-Strategy 
-A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called ‘Bridgewebs.com’. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
-Following background research with both bridge players and non-bridge players [see process this [here](“assets/ background-research/XXX.pdf). It was felt that the website needed to address the following 3 areas.
-1.	Addressing the barriers to starting bridge.
-2.	Providing information on classes and the ability to sign up.
-3.	Providing information on play and the ability to signup.
+<ul>
+<li>Understand the purpose of the site</li>
+<li>Understand the content/layout of webpage from the main page</li>
+<li>Easily navigate to find out information about Bridge in general</li>
+<li>Easily navigate to find out information on Bridge classes sign up for them</li>
+<li>Easily navigate to information on Bridge play and sign up to play</li>
+<li>Easily navigate to the Contact form and send information from there</li>
+<li>Easily return to the main page from all sections</li>
+</ul>
+</p>
+<h2>Strategy </h2>
+<p>A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called ‘Bridgewebs.com’. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
+Following background research with both bridge players and non-bridge players <a href="assets/pdfs/background-research.pdf">(see results here)</a>. It was felt that the website needed to address the following 3 areas.
+<ol>
+<li>Addressing the barriers to starting bridge.</li>
+<li>Providing information on classes and the ability to sign up.</li>
+<li>Providing information on play and the ability to signup.</li>	
+</ol>
 In addition it was felt that the site would need interactive features to engage visitors and encourage them to return to the site.
 The websites opportunities to meet these needs are listed with the associated feasibility of achieving these for an initial release.
-
-
-
-	Importance	Feasibility
-Create an online presence
-	5	5
-Address barriers to starting Bridge
-	4	5
-Provide information on lessons/play	5	5
-Recruit students and players
-	5	5
-Online   Discussion forum for bridge problems	3	1
-Interactive bridge hands and quizzes	4	1
-Integration with existing online bridge platforms	4	0
-
-These were plotted to help decide which would be included in the initial release.
+These were plotted to help decide which would be included in the initial release <a href="assets/pdfs/importance-feasibility.pdf"></a>
  
-
 Consequently the opportunities to be included in the first release included
-1.	Creating an online presence
-2.	Addressing barriers to starting bridge
-3.	Providing information on lessons/play
-4.	Providing an opportunity to recruit students and players
-
-Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.
-Functional requirements; 	    To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website. 
-Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.
+<ul>
+<li>Creating an online presence</li>
+<li>Addressing barriers to starting bridge</li>
+<li>Providing information on lessons/play</li>
+<li>Providing an opportunity to recruit students and players</li>	
+</ul>
+Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.<br>
+Functional requirements; 	    To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website. <br>
+Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.<br>
 Business rule requirements;     The site will conform to data protection regulations
+</p>
 
-Structure
-As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both. 
+<h2>Structure</h2>
+<p>As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both.</p>
 
-Skeleton 
-The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up.  with an option to sign-up, and then a similar section for play. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile,]( “assets/wireframes/mobile”), [mediumscreens](“assets/wireframes/medium”),  and [largescreens.]( “assets/wireframes”)
-The site has a modal addressing the adaption of the club during COVID-19 restrictions.
-Surface/Design
--	Imagery The hero image was a key aspect of the site it was found in [nsplash.com](“linkhere”) and was chosen to convey a contemporary, modern feel.
--	Colour scheme [imagecolorpicker.com](“linkhere”) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](“linkhere”) to generate a colour palette than was felt to be contemporary and subtle.
--	Typography. The Comfortaa font was selected in [Google fonts](“linkhere”)for its clarity and contemporary feels and google font suggested Montserrat as an accompanying font and Its simplicity was appealing.
+<h2>Skeleton</h2> 
+<p>The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up.  with an option to sign-up, and then a similar section for play. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile,]( “assets/wireframes/mobile”), [mediumscreens](“assets/wireframes/medium”),  and [largescreens.]( “assets/wireframes”)
+The site has a modal addressing the adaption of the club during COVID-19 restrictions.</p>
+<h2>Surface/Design</h2>
+<ul>
+<li>Imagery The hero image was a key aspect of the site it was found in <a href="">unsplash.com</a> and was chosen to convey a contemporary, modern feel.</li>
+<li>Colour scheme [imagecolorpicker.com](“linkhere”) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](“linkhere”) to generate a colour palette than was felt to be contemporary and subtle.</li>
+<li>Typography. The Comfortaa font was selected in [Google fonts](“linkhere”)for its clarity and contemporary feels and google font suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
+</ul>
+</p>
+<h2>Features</h2>
+<ul>
+<li>Responsiveness on all device sizes.</li>
+<li>The Alert banner disappears on small screens.</li>
+<li>The Navbar collapses and dismisses on tap on small screens.</li>
+<li>The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.</li>
+<li>The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information.</li>
+<li>The Learn Bridge with Us section gives information on all aspects of classes.</li>
+<li>The Play Bridge with Us section gives information on all aspects of play.</li>
+<li>The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.</li>
+</ul>
 
-Features
-
-Responsiveness on all device sizes.
-The Alert banner disappears on small screens.
-The Navbar collapses and dismisses on tap on small screens.
-The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.
-The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information.
-The Learn Bridge with Us section gives information on all aspects of classes.
-The Play Bridge with Us section gives information on all aspects of play.
-The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
-
-
-
-Future features
-
-In the future it would be anticipated that the site might
--	Have less text in sections that can be truncated with an ellipsis and a ‘read more’ option
--	Provide a members’ section that could be logged in to.
--	Provide an online discussion forum for bridge problems
--	Provide interactive bridge hands and quizzes
--	Integrate on with existing online bridge platforms such as [bridgebaseonline](“linkhere”) and [realbridge](“linkhere”).
+<h2>Future features</h2>
 
 
-Languages used
-[HTML5](“”)
+<p>In the future it would be anticipated that the site would
+<ul>
+<li>Have less text in sections that can be truncated with an ellipsis and a ‘read more’ option</li>
+<li>Provide a members’ section that could be logged in to</li>
+<li>Provide an online discussion forum for bridge problems</li>
+<li>Provide interactive bridge hands and quizzes</li>
+<li></li>
+<li></li>
+
+</ul>
+</p>
+<h2>Languages used</h2>
+HTML5
 [CSS3](“”)	
 
 Frameworks, Libraries and online resources used
@@ -178,3 +178,7 @@ Acknowledgements.
 I would like to thank my mentor Chris Quinn for sound advice and support
 I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Ti, Jo, Igor and Fatima.
 My family and friends for support and feedback and in particular the hilarious  [comments about bridge](“”) that continually cheered me up!
+
+</article>
+</body>
+</html>

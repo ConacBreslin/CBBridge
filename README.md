@@ -11,6 +11,7 @@
 Bridge is a popular card game played by many people but suffers from a poor image The idea was to advertise the CBBridge club in a contemporary and user-friendly way, to address barriers people may encounter to starting to learn or play and to get potential students and players to join.</p>
 <img src=""
 PICTURE OF RESPONSIVENES HERE>
+
 <a href="https://conacbreslin.github.io/CBBridge/">View the deployed site here</a>
 
 
@@ -29,7 +30,7 @@ On visiting the site they should be able to
 </p>
 <h2>Strategy </h2>
 <p>A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called ‘Bridgewebs.com’. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
-Following background research with both bridge players and non-bridge players <a href="assets/pdfs/background-research.pdf">(see results here)</a>. It was felt that the website needed to address the following 3 areas.
+Following background research with both bridge players and non-bridge players <a href="assets/pdfs/background-research.pdf">(see results here)</a>. It was felt that the website needed to cover the following 3 areas.
 <ol>
 <li>Addressing the barriers to starting bridge.</li>
 <li>Providing information on classes and the ability to sign up.</li>

@@ -48,16 +48,16 @@
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#aboutbridge-link" data-toggle="collapse" data-target=".navbar-collapse.show">About Bridge</a>
+                    <a class="nav-link" href="#aboutbridge-link">About Bridge</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#learnbridge-link" data-toggle="collapse" data-target=".navbar-collapse.show">Learn Bridge with Us</a>
+                    <a class="nav-link" href="#learnbridge-link">Learn Bridge with Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#playbridge-link" data-toggle="collapse" data-target=".navbar-collapse.show">Play Bridge with Us</a>
+                    <a class="nav-link" href="#playbridge-link">Play Bridge with Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#signup-link" data-toggle="collapse" data-target=".navbar-collapse.show">Contact Us/Sign Up</a>
+                    <a class="nav-link" href="#signup-link">Contact Us/Sign Up</a>
                 </li>
             </ul>
 
@@ -785,6 +785,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
         crossorigin="anonymous"></script>
+       <script>
+           $(".navbar-nav>li>a").on("click", function() {
+               $(".navbar-collapse").collapse("hide");
+            });
+        </script>
 </body>
 
 </html>

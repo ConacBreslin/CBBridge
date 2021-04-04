@@ -60,8 +60,8 @@ Business rule requirements;     The site will conform to data protection regulat
 The site has a modal addressing the adaption of the club during COVID-19 restrictions.</p>
 <h2>Surface/Design</h2>
 <ul>
-<li>Imagery The hero image was a key aspect of the site it was found in <a href="">unsplash.com</a> and was chosen to convey a contemporary, modern feel.</li>
-<li>Colour scheme [imagecolorpicker.com](“linkhere”) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](“linkhere”) to generate a colour palette than was felt to be contemporary and subtle.</li>
+<li>Imagery The hero image was a key aspect of the site it was found in <a href="https://unsplash.com/">unsplash.com</a> and was chosen to convey a contemporary, modern feel.</li>
+<li>Colour scheme <a href="https://imagecolorpicker.com/">IMAGECOLORPICKER.com</a> was used to find the hex value of the backgound colour in the hero image and this was used in <a href="https://coolors.co/">coolor.co</a> to generate <a href="assets/images/colour-palette.png">this colour palette</a>. which was felt to be contemporary and subtle.</li>
 <li>Typography. The Comfortaa font was selected in [Google fonts](“linkhere”)for its clarity and contemporary feels and google font suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
 </ul>
 </p>

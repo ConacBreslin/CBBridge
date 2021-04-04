@@ -11,11 +11,11 @@ PICTURE OF RESPONSIVENES HERE
 User Experience (UX)
 A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
 On visiting the site they should be able to 
-(i)	Understand the purpose of the site 
+(i)	    Understand the purpose of the site 
 (ii)	Understand the content/layout of webpage from the main page
 (iii)	Easily navigate to find out information about Bridge in general
 (iv)	Easily navigate to find out information on Bridge classes sign up for them
-(v)	Easily navigate to information on Bridge play and sign up to play 
+(v)	    Easily navigate to information on Bridge play and sign up to play 
 (vi)	Easily navigate to the Contact form and send information from there
 (vii)	Easily return to the main page from all sections
 
@@ -27,6 +27,8 @@ Following background research with both bridge players and non-bridge players [s
 3.	Providing information on play and the ability to signup.
 In addition it was felt that the site would need interactive features to engage visitors and encourage them to return to the site.
 The websites opportunities to meet these needs are listed with the associated feasibility of achieving these for an initial release.
+
+
 
 	Importance	Feasibility
 Create an online presence
@@ -49,10 +51,10 @@ Consequently the opportunities to be included in the first release included
 3.	Providing information on lessons/play
 4.	Providing an opportunity to recruit students and players
 
-Objective Requirements;  The user will want to enrol in Bridge classes or Bridge play.
-Functional requirements; 	To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website. 
+Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.
+Functional requirements; 	    To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website. 
 Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.
-Business rule requirements; The site will conform to data protection regulations
+Business rule requirements;     The site will conform to data protection regulations
 
 Structure
 As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both. 
@@ -68,20 +70,13 @@ Surface/Design
 Features
 
 Responsiveness on all device sizes.
-
 The Alert banner disappears on small screens.
-
 The Navbar collapses and dismisses on tap on small screens.
-
 The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.
-
 The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information.
-
 The Learn Bridge with Us section gives information on all aspects of classes.
-
-The Play Bridge with US section gives information on all aspects of play.
-
--	The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
+The Play Bridge with Us section gives information on all aspects of play.
+The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
 
 
 
@@ -100,15 +95,15 @@ Languages used
 [CSS3](“”)	
 
 Frameworks, Libraries and online resources used
-[Bootstrap 4.6.1](“”)		Was used to help keep design responsive and to help styling.
-[Google Fonts](“”)		Was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
-[Bootstrap Icons](“”)			Was used to import the icons into the style.css file.
+[Bootstrap 4.6.1](“”)		        Was used to help keep design responsive and to help styling.
+[Google Fonts](“”)		            Was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
+[Bootstrap Icons](“”)			    Was used to import the icons into the style.css file.
 [zyro](“ https://logo.zyro.com”)	Was used to create the logo
 [css-tricks](“https://css-tricks.com/”)	Was used to import the background image
-[online-image-editor](“”):	Was used to edit images
-[Pixillion](“”):		Was used to create the favicon
-[tinypng](“”):		Was Used to reduce size of images
-[codeply.com](“”):	Was used to cause 	dismiss-on-tap
+[online-image-editor](“”):	        Was used to edit images
+[Pixillion](“”):		        Was used to create the favicon
+[tinypng](“”):		        Was Used to reduce size of images
+[codeply.com](“”):	        Was used to cause 	dismiss-on-tap
 [www.101.computing.net](“”):	Was used to help inset the favicon	
 [jQuery](“”):	 came with Bootstrap to make the navbar response
 [Git](“”):	Git pod was used for committing and pushing to Git, Git was used for version control.
@@ -142,7 +137,7 @@ The site’s performance, accessibility,
 Known Bugs
 
 
-Deploymen
+Deployment
 CiitHub Pages
 The project was deployed to GitHub Pages in the following way. 
 1.	Log in to GitHub and locate the [GitHub](“ https://github.com/”)   

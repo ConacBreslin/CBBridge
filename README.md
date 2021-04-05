@@ -23,7 +23,7 @@ On visiting the site they should be able to
 
 ## Strategy
 
-A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called <a href="https://www.bridgewebs.com/">Bridgewebs.com</a>. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
+A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called [bridgewebs.com](https://www.bridgewebs.com/). This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
 Following background research with both bridge players and non-bridge players [see results here](assets/pdfs/background-research.pdf). It was felt that the website needed to cover the following 3 areas. 
 
 - Addressing the barriers to starting bridge.
@@ -36,19 +36,19 @@ The websites opportunities to meet these needs and the feasibility of achieving 
 Consequently the opportunities to be included in the first release included
 
 - Creating an online presence
-- Addressing barriers to starting bridge<
+- Addressing barriers to starting bridge
 - Providing information on lessons/play
  -Providing an opportunity to recruit students and players	
 
-Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.<br>
-Functional requirements; 	    To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website. <br>
-Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.<br>
+Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.
+Functional requirements; 	    To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website.
+Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.
 Business rule requirements;     The site will conform to data protection regulations
 
 
 ## Structure
 
-As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both.</p>
+As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both.
 
 ## Skeleton
 The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile)
@@ -100,7 +100,7 @@ CSS3
 - [online-image-editor.com](https://www.online-image-editor.com/) was used to edit images
 - [tinypng.com](https://tinypng.com/") was used to resize images
 - Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon
-- <a href="https://www.101computing.net/html-how-to-add-a-favicon/">101computing.net</a> was used to help insert the favicon
+- [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon
 - code from [ourcodeworld.com](https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css) was used to make the tables responsive
 - code from [css-tricks.com](https://css-tricks.com/) was used to import the background image
 - code from [codeply.com](https://www.codeply.com/go/PqIBtz3HPL) was used to create	dismiss-on-tap

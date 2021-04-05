@@ -62,102 +62,91 @@ The site has a modal addressing the adaption of the club during COVID-19 restric
 - Colour scheme; <a href="https://imagecolorpicker.com/">IMAGECOLORPICKER.com</a> was used to find the hex value of the backgound colour in the hero image and this was used in <a href="https://coolors.co/">coolor.co</a> to generate <a href="assets/images/colour-palette.png">this colour palette</a>. which was felt to be contemporary and subtle.</li>
 - Typography; The Comfortaa font was selected in <a href="https://fonts.google.com/">Google fonts</a> for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
 
-</p>
-<h2>Features</h2>
-<ul>
-<li>Responsiveness on all device sizes.</li>
-<li>The Alert banner disappears on small screens.</li>
-<li>The Navbar collapses and dismisses on tap on small screens.</li>
-<li>The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.</li>
-<li>The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information.</li>
-<li>The Learn Bridge with Us section gives information on all aspects of classes.</li>
-<li>The Play Bridge with Us section gives information on all aspects of play.</li>
-<li>The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.</li>
-</ul>
 
-<h2>Future features</h2>
+## Features
 
+- Responsiveness on all device sizes.</li>
+- The Alert banner disappears on small screens.</li>
+- The Navbar collapses and dismisses on tap on small screens.
+- The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.
+- The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information.
+- The Learn Bridge with Us section gives information on all aspects of classes.
+- The Play Bridge with Us section gives information on all aspects of play.
+- The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
 
-<p>In the future it would be anticipated that the site would
-<ul>
-<li>Have less text in sections that can be truncated with an ellipsis and a ‘read more’ option</li>
-<li>Provide a members’ section that could be logged in to</li>
-<li>Provide an online discussion forum for bridge problems</li>
-<li>Provide interactive bridge hands and quizzes</li>
-<li></li>
-<li></li>
+## Future features
 
-</ul>
-</p>
-<h2>Languages used</h2>
-<p>HTML5
-<br>
+In the future it would be anticipated that the site would
+- Have less text in sections that can be truncated with an ellipsis and a ‘read more’ option
+- Provide a members’ section that could be logged in to
+- Provide an online discussion forum for bridge problems
+- Provide interactive bridge hands and quizzes
+
+## Languages used
+HTML5
+
 CSS3
-</p>
-<h2>Frameworks, Libraries and online resources used</h2>
-<ul>
-<li><a href="https://balsamiq.com/wireframes/">Balsamiq</a> was used to create the wireframes</li>
-<li><a href="">Git</a></li>
-<li><a href="">GitHub</a> was used for storing the code after being pushed from Git</li>
-<li><a href="https://getbootstrap.com/">Bootstrap 4.6.1</a> was used to help keep design responsive and to help styling.</li>
-<li><a href="https://jquery.com/">jQuery</a> came with Bootstrap to make the navbar response/li>
-<li><a href="https://fonts.google.com/">Google Fonts</a> was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.</li>
-<li><a href="https://logo.zyro.com">zyro.com</a> was used to create the logo</li>
-<li><a href="https://icons.getbootstrap.com/">Bootstrap icons</a> was used to import the icons</li>
-<li>Photos were used from<a href="https://unsplash.com/"></a>unsplash.com</li>
-<li>Photos were used from<a href="https://www.pexels.com/">pexels.com</a></li>
-<li><a href="https://www.online-image-editor.com/">online-image-editor.com/</a> was used to edit images</li>
-<li><a href="https://tinypng.com/">tinypng.com</a> was used to resize images</li>
-<li>Pixillion image conversion software from <a href="https://www.nchsoftware.com/imageconverter/index.html">nchsoftware.com</a> was used to create the favicon</li>
-<li><a href="https://www.101computing.net/html-how-to-add-a-favicon/">101computing.net</a> was used to help insert the favicon</li>
-<li>code from<a href="https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css">ourcodeworld.com</a> was used to make the tables responsive</li>
-<li>code from <a href="https://css-tricks.com/">css-tricks.com</a> was used to import the background image</li>
-<li>code from <a href="https://www.codeply.com/go/PqIBtz3HPL">codeply.com</a> was used to create	dismiss-on-tap</li>
-<li>code from <a href="">stackoverflow.com</a> was used for media object and finding fixes for bugs</li>
-<li>code was formatted using <a href="https://webformatter.com/html>webformatter.com</li>
-</ul>
 
-<h2>Testing</h2>
-<p>
+## Frameworks, Libraries and online resources used
+- [Balsamiq](https://balsamiq.com/wireframes/)was used to create the wireframes
+- [Git]()
+- [GitHub]()a href=""></a> was used for storing the code after being pushed from Git
+- [Bootstrap 4.6.1](https://getbootstrap.com/) was used to help keep design responsive and to help styling.
+- [jQuery](https://jquery.com/) came with Bootstrap to make the navbar response
+- [Google Fonts](https://fonts.google.com/) was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
+- [zyro.com](https://logo.zyro.com)  was used to create the logo
+- [Bootstrap icons](https://icons.getbootstrap.com/) was used to import the icons
+- Photos were used from [unsplash.com](https://unsplash.com/)
+- Photos were used from [pexels.com](https://www.pexels.com/) 
+- [online-image-editor.com](https://www.online-image-editor.com/) was used to edit images
+- [tinypng.com](https://tinypng.com/") was used to resize images
+- Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon
+- <a href="https://www.101computing.net/html-how-to-add-a-favicon/">101computing.net</a> was used to help insert the favicon
+- code from [ourcodeworld.com](https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css) was used to make the tables responsive
+- code from [css-tricks.com](https://css-tricks.com/) was used to import the background image
+- code from [codeply.com](https://www.codeply.com/go/PqIBtz3HPL) was used to create	dismiss-on-tap
+- code from [stackoverflow.com]() was used for media object and finding fixes for bugs
+- code was formatted using [webformatter.com](https://webformatter.com/html)
 
+## Testing
 
 Testing User Stories from User Experience (UX) Section
-</p>
-<h2>Manual Testing</h2>
-<p>
+
+## Manual Testing
+
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. THe code was submitted fro peer-review in slack.com (LINK)
 [Log of manual testing](“”)
-</p>
-<h2>Code Validation.</h2>
-<p>
+
+## Code Validation.
+
 The site’s html validation was tested repeatedly by direct input into
-<a href="https://validator.w3.org/">validator.w3.org</a> and the results of these logs and fixes are documented <a href="">here</a>
-</p>
+[validator.w3.org](https://validator.w3.org/) and the results of these logs and fixes are documented [here]()
 
-<h2>Style validation</h2>
-<p>
+
+## Style validation
+
 The site’s css validation was tested repeatedly by 
-<a href="https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/">jigsaw.w3.org</a> and the results of these logs and fixes are documented <a href="">here</a>
+[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/") and the results of these logs and fixes are documented <a href="">here</a>
 
-</p>
-<h2>Lighthouse Audits</h2>
-<p>
+
+## Lighthouse Audits
+
 The site’s Performance, Accessibility, Best Practices and SEO were auditted repeatedly by 
-<a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Chrome Lighthouse</a> and the results of these logs and fixes are documented <a href="">here</a>
+[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of these logs and fixes are documented <a href="">here</a>
 
-</p>
-<h2>Changes over course of development</h2>
-<p>It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections</p>
+## Changes over course of development
 
-<h2>Known Bugs</h2>
-<p>There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.Howeevr Code Institue teaching and <a href="https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382">stackoverflow.com</a> permit this.</p>
+It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections
 
+## Known Bugs
+There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.Howeevr Code Institue teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) permit this.
 
-<h2>Deployment</h2>
-<p>GitHub Pages
+## Deployment
+
+GitHub Pages
 The project was deployed to GitHub Pages in the following way. 
-1.	Log in to GitHub and locate the [GitHub](“ https://github.com/”)   
+1.	Log in to GitHub and locate the [GitHub](https://github.com/)   
 2.	At the top of the Repository locate the "Settings" Button on the menu.
 3.	Scroll down the Settings page to the "GitHub Pages" Section.
 4.	Under "Source", click the dropdown called "None" and select "Master Branch".
@@ -165,36 +154,34 @@ The project was deployed to GitHub Pages in the following way.
 6.	Scroll back down through the page to locate [link to the published site](“ https://conacbreslin.github.io/CBBridge/”)  in the "GitHub Pages" section.
 Forking the GitHub Repository
 The  GitHub Repository can be forked to make a copy of the original repository on the GitHub account to view and/or make changes without affecting the original repository in the following way.
-1.	Log in to GitHub and locate the [GitHub Repository](“ https://github.com/ConacBreslin/CBBridge”) 
+1.	Log in to GitHub and locate the [GitHub Repository](https://github.com/ConacBreslin/CBBridge) 
 2.	At the top of the Repository (not top of page) above the "Settings" Button and over to the left locate the "Fork" Button.
 3.	You should now have a copy of the original repository in your GitHub account.
 
 Making a Local Clone
-1.	Log in to GitHub and locate the [GitHub Repository](“ https://github.com/ConacBreslin/CBBridge”) 
+1.	Log in to GitHub and locate the [GitHub Repository](https://github.com/ConacBreslin/CBBridge) 
 2.	Under the repository name, click the dropdown button marked “Code” and then select "Clone or download".
 3.	To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4.	Open Git Bash
 5.	Change the current working directory to the location where you want the cloned directory to be made.
 6.	Type git clone, and then paste the URL copied in Step 3.
 7.	Press Enter and the local clone will be created
-</p>
-<h2>
-Credits</h2>
-<p>
-Background image:	Photo by Jarosław Kwoczała on Unsplash<br>
-Lady-one photo: 	Photo by Kayla Farmer on Unsplash<br>
-Man-one Photo: 	Photo by Can yılmaz on Unsplash<br>
-Lady-two photo:  	Photo by Anderson Guerra from Pexels<br>
-Man-two photo; 	Photo by Italo Melo from Pexels
-</p>
-<h2>Content</h2>
-<p>All content was written by the developer</p>
 
-<h2>Acknowledgements</h2>
-<p>I would like to thank my mentor Chris Quinn for sound advice and support
+## Credits
+
+- Background image:	Photo by Jarosław Kwoczała on Unsplash
+- Lady-one photo: 	Photo by Kayla Farmer on Unsplash
+- Man-one Photo: 	Photo by Can yılmaz on Unsplash
+- Lady-two photo:  	Photo by Anderson Guerra from Pexels
+- Man-two photo; 	Photo by Italo Melo from Pexels
+
+## Content
+
+All content was written by the developer
+
+## Acknowledgements
+
+I would like to thank my mentor Chris Quinn for sound advice and support
 I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Tim, Jo, Igor and Fatima.
 My family and friends for support and feedback and in particular the hilarious  <a href="assets/pdfs/background-research">comments about bridge</a> that always ade me laugh!
-</p>
-</article>
-</body>
-</html>
+

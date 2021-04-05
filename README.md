@@ -1,69 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-<article>
 
-<h1><strong>CBBridge Website</strong></h1>
 
-<p>This website is designed for a ficticious Bridge Club called CBBridge. Bridge is a popular card game played by many people but suffers from a poor image The idea was to promote the CBBridge club in a contemporary and user-friendly way and to recruit students and players.</p>
+# **CBBridge Website**
+
+This website is designed for a ficticious Bridge Club called CBBridge. Bridge is a popular card game played by many people but suffers from a poor image The idea was to promote the CBBridge club in a contemporary and user-friendly way and to recruit students and players.
 <img src=""
 PICTURE OF RESPONSIVENES HERE>
 
-<a href="https://conacbreslin.github.io/CBBridge/">View the deployed site here</a>
+[View the deployed site here](https://conacbreslin.github.io/CBBridge/)
 
 
-<h2>User Experience (UX)</h2>
-<p>A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
+## User Experience (UX)
+A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
 On visiting the site they should be able to 
-<ul>
-<li>Understand the purpose of the site</li>
-<li>Understand the content/layout of webpage from the main page</li>
-<li>Easily navigate to find out information about Bridge in general</li>
-<li>Easily navigate to find out information on Bridge classes and sign up for them</li>
-<li>Easily navigate to information on Bridge play and sign up to play</li>
-<li>Easily navigate to the Contact form and send information from there</li>
-<li>Easily return to the main page from all sections</li>
-</ul>
-</p>
-<h2>Strategy </h2>
-<p>A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called <a href="https://www.bridgewebs.com/">Bridgewebs.com</a>. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
-Following background research with both bridge players and non-bridge players  <a href="assets/pdfs/background-research.pdf">(see results here)</a>. It was felt that the website needed to cover the following 3 areas. 
-<ol>
-<li>Addressing the barriers to starting bridge.</li>
-<li>Providing information on classes and the ability to sign up.</li>
-<li>Providing information on play and the ability to signup.</li>	
-</ol>
+
+- Understand the purpose of the site
+- Understand the content/layout of webpage from the main page
+- Easily navigate to find out information about Bridge in general
+- Easily navigate to find out information on Bridge classes and sign up for them
+- Easily navigate to information on Bridge play and sign up to play
+- Easily navigate to the Contact form and send information from there
+- Easily return to the main page from all sections
+
+
+## Strategy
+
+A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called <a href="https://www.bridgewebs.com/">Bridgewebs.com</a>. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
+Following background research with both bridge players and non-bridge players [see results here](assets/pdfs/background-research.pdf). It was felt that the website needed to cover the following 3 areas. 
+
+- Addressing the barriers to starting bridge.
+- Providing information on classes and the ability to sign up
+-Providing information on play and the ability to signup.
+
 In addition it was felt that the site would need interactive features to encourage visitors to engage with the site and return to the site in the future.
 The websites opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release <a href="assets/pdfs/importance-feasibility.pdf">(see them here)</a>
 
 Consequently the opportunities to be included in the first release included
-<ul>
-<li>Creating an online presence</li>
-<li>Addressing barriers to starting bridge</li>
-<li>Providing information on lessons/play</li>
-<li>Providing an opportunity to recruit students and players</li>	
-</ul>
+
+- Creating an online presence
+- Addressing barriers to starting bridge<
+- Providing information on lessons/play
+ -Providing an opportunity to recruit students and players	
+
 Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.<br>
 Functional requirements; 	    To achieve this the website will provide them with relevant information that takes into account the research findings and the site will include the ability to sign up to the club from website. <br>
 Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.<br>
 Business rule requirements;     The site will conform to data protection regulations
-</p>
 
-<h2>Structure</h2>
-<p>As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both.</p>
 
-<h2>Skeleton</h2> 
-<p>The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile,]( “assets/wireframes/mobile”)
-, [mediumscreens](“assets/wireframes/medium”),  and [largescreens.]( “assets/wireframes”)
-The site has a modal addressing the adaption of the club during COVID-19 restrictions.</p>
-<h2>Surface/Design</h2>
-<ul>
-<li>Imagery; The hero image was a key aspect of the site it was found in <a href="https://unsplash.com/">unsplash.com</a> and was chosen to convey a contemporary, modern feel.</li>
-<li>Colour scheme; <a href="https://imagecolorpicker.com/">IMAGECOLORPICKER.com</a> was used to find the hex value of the backgound colour in the hero image and this was used in <a href="https://coolors.co/">coolor.co</a> to generate <a href="assets/images/colour-palette.png">this colour palette</a>. which was felt to be contemporary and subtle.</li>
-<li>Typography; The Comfortaa font was selected in <a href="https://fonts.google.com/">Google fonts</a> for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
-</ul>
+## Structure
+
+As the quantity of information on the website was not extensive a single page linear structure was planned. Users will be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form will collect minimal information and have dropdown menus to help people include their ability level and buttons to select if they are interested in classes, play or both.</p>
+
+## Skeleton
+The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile)
+, [mediumscreens](assets/wireframes/balsamiq-medium-view.bmpr),  and [desktop](assets/wireframes/balsamiq-desktop-view.bmpr”)
+The site has a modal addressing the adaption of the club during COVID-19 restrictions.
+
+## Surface/Design
+
+- Imagery; The hero image was a key aspect of the site it was found in [unsplash.com](https://unsplash.com/) and was chosen to convey a contemporary, modern feel.</li>
+- Colour scheme; <a href="https://imagecolorpicker.com/">IMAGECOLORPICKER.com</a> was used to find the hex value of the backgound colour in the hero image and this was used in <a href="https://coolors.co/">coolor.co</a> to generate <a href="assets/images/colour-palette.png">this colour palette</a>. which was felt to be contemporary and subtle.</li>
+- Typography; The Comfortaa font was selected in <a href="https://fonts.google.com/">Google fonts</a> for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
+
 </p>
 <h2>Features</h2>
 <ul>

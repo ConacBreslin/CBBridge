@@ -3,8 +3,7 @@
 # **CBBridge Website**
 
 This website is designed for a ficticious Bridge Club called CBBridge. Bridge is a popular card game played by many people but suffers from a poor image The idea was to promote the CBBridge club in a contemporary and user-friendly way and to recruit students and players.
-<img src=""
-PICTURE OF RESPONSIVENES HERE>
+![CBBridge mainpage](assets/images/screenshot-calloutpage.png)
 
 [View the deployed site here](https://conacbreslin.github.io/CBBridge/)
 
@@ -29,10 +28,10 @@ Following background research with both bridge players and non-bridge players [s
 
 - Addressing the barriers to starting bridge.
 - Providing information on classes and the ability to sign up
--Providing information on play and the ability to signup.
+- Providing information on play and the ability to signup.
 
 In addition it was felt that the site would need interactive features to encourage visitors to engage with the site and return to the site in the future.
-The websites opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release <a href="assets/pdfs/importance-feasibility.pdf">(see them here)</a>
+The websites opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release [(see them here)](assets/pdfs/importance-feasibility.pdf)
 
 Consequently the opportunities to be included in the first release included
 
@@ -53,20 +52,20 @@ As the quantity of information on the website was not extensive a single page li
 
 ## Skeleton
 The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile)
-, [mediumscreens](assets/wireframes/balsamiq-medium-view.bmpr),  and [desktop](assets/wireframes/balsamiq-desktop-view.bmpr”)
+, [mediumscreens](/assets/wireframes/balsamiq-medium-view.bmpr),  and [desktop](/assets/wireframes/balsamiq-desktop-view.bmpr”)
 The site has a modal addressing the adaption of the club during COVID-19 restrictions.
 
 ## Surface/Design
 
-- Imagery; The hero image was a key aspect of the site it was found in [unsplash.com](https://unsplash.com/) and was chosen to convey a contemporary, modern feel.</li>
-- Colour scheme; <a href="https://imagecolorpicker.com/">IMAGECOLORPICKER.com</a> was used to find the hex value of the backgound colour in the hero image and this was used in <a href="https://coolors.co/">coolor.co</a> to generate <a href="assets/images/colour-palette.png">this colour palette</a>. which was felt to be contemporary and subtle.</li>
-- Typography; The Comfortaa font was selected in <a href="https://fonts.google.com/">Google fonts</a> for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and Its simplicity was appealing.</li>
+- Imagery; The hero image was a key aspect of the site it was found in [unsplash.com](https://unsplash.com/) and was chosen to convey a contemporary, modern feel.
+- Colour scheme; [IMAGECOLORPICKER.com](https://imagecolorpicker.com/) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](https://coolors.co/)) to generate [this colour palette](assets/images/colour-palette.png) which was felt to be contemporary and subtle.
+- Typography; The Comfortaa font was selected in [Google fonts](https://fonts.google.com/) for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing.
 
 
 ## Features
 
-- Responsiveness on all device sizes.</li>
-- The Alert banner disappears on small screens.</li>
+- Responsiveness on all device sizes.
+- The Alert banner disappears on small screens.
 - The Navbar collapses and dismisses on tap on small screens.
 - The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.
 - The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information.
@@ -89,8 +88,8 @@ CSS3
 
 ## Frameworks, Libraries and online resources used
 - [Balsamiq](https://balsamiq.com/wireframes/)was used to create the wireframes
-- [Git]()
-- [GitHub]()a href=""></a> was used for storing the code after being pushed from Git
+- Gits's [gitpod](https://www.gitpod.io/) was used for writing and editing code
+- [GitHub](https://github.com/) was used for storing the code after being pushed from Git
 - [Bootstrap 4.6.1](https://getbootstrap.com/) was used to help keep design responsive and to help styling.
 - [jQuery](https://jquery.com/) came with Bootstrap to make the navbar response
 - [Google Fonts](https://fonts.google.com/) was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
@@ -116,7 +115,7 @@ Testing User Stories from User Experience (UX) Section
 
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. THe code was submitted fro peer-review in slack.com (LINK)
-[Log of manual testing](“”)
+[Log of manual testing]()
 
 ## Code Validation.
 
@@ -127,20 +126,21 @@ The site’s html validation was tested repeatedly by direct input into
 ## Style validation
 
 The site’s css validation was tested repeatedly by 
-[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/") and the results of these logs and fixes are documented <a href="">here</a>
+[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/") and the results of these logs and fixes are documented [here]()
 
 
 ## Lighthouse Audits
 
 The site’s Performance, Accessibility, Best Practices and SEO were auditted repeatedly by 
-[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of these logs and fixes are documented <a href="">here</a>
+[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of these logs and fixes are documented [here]()
 
 ## Changes over course of development
 
-It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections
+It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections.
+The modal was temporarily abandoned as complicating the submit procedure but was then simplified and reinstated.
 
 ## Known Bugs
-There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.Howeevr Code Institue teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) permit this.
+There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.Howeverr Code Institue teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) permit this.
 
 ## Deployment
 
@@ -183,5 +183,6 @@ All content was written by the developer
 
 I would like to thank my mentor Chris Quinn for sound advice and support
 I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Tim, Jo, Igor and Fatima.
-My family and friends for support and feedback and in particular the hilarious  <a href="assets/pdfs/background-research">comments about bridge</a> that always ade me laugh!
+I would like to thank Stephen Seagrave's for his {excellent presentation](https://us02web.zoom.us/rec/play/zZzrdRcJ1Gz9isoaRTUcHNhB1VEqzkhcI4kkOUXEbTGTShtMaNQEpxYE7dW214K5X2OWveSRPLL-oWtA.5EMQT2YvoO2ZLIox?autoplay=true) on MS1 projects that I referred to repeatedly
+Finally I would like to thank my family and friends for support and feedback and in particular the hilarious  <a href="assets/pdfs/background-research">comments about bridge</a> that always ade me laugh!
 

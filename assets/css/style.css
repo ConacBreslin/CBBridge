@@ -230,7 +230,7 @@ mark {
 
 #intro-offer {
     margin-top: 100px;
-    margin-bottom: px;
+    margin-bottom: 20px;
 }
 
 /*----------------------About Bridge---------------------------*/
@@ -300,8 +300,8 @@ footer a:hover {
 
     font-size: 1.5rem;
 }
-
-.footer-container ul {padding-inline-start: 20px;}
+/* 
+.footer-container ul {padding-inline-start: 20px;} */
 
 #footer-row {
     padding-top:15px;

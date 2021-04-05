@@ -29,7 +29,7 @@ On visiting the site they should be able to
 </p>
 <h2>Strategy </h2>
 <p>A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called <a href="https://www.bridgewebs.com/">Bridgewebs.com</a>. This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
-Following background research with both bridge players and non-bridge players <a href="assets/pdfs/background-research.pdf">(see results here)</a>. It was felt that the website needed to cover the following 3 areas.
+Following background research with both bridge players and non-bridge players  <a href="assets/pdfs/background-research.pdf">(see results here)</a>. It was felt that the website needed to cover the following 3 areas. 
 <ol>
 <li>Addressing the barriers to starting bridge.</li>
 <li>Providing information on classes and the ability to sign up.</li>
@@ -106,6 +106,8 @@ CSS3
 <li><a href="https://fonts.google.com/">Google Fonts</a> was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.</li>
 <li><a href="https://logo.zyro.com">zyro.com</a> was used to create the logo</li>
 <li><a href="https://icons.getbootstrap.com/">Bootstrap icons</a> was used to import the icons</li>
+<li>Photos were used from<a href="https://unsplash.com/"></a>unsplash.com</li>
+<li>Photos were used from<a href="https://www.pexels.com/">pexels.com</a></li>
 <li><a href="https://www.online-image-editor.com/">online-image-editor.com/</a> was used to edit images</li>
 <li><a href="https://tinypng.com/">tinypng.com</a> was used to resize images</li>
 <li>Pixillion image conversion software from <a href="https://www.nchsoftware.com/imageconverter/index.html">nchsoftware.com</a> was used to create the favicon</li>
@@ -114,6 +116,7 @@ CSS3
 <li>code from <a href="https://css-tricks.com/">css-tricks.com</a> was used to import the background image</li>
 <li>code from <a href="https://www.codeply.com/go/PqIBtz3HPL">codeply.com</a> was used to create	dismiss-on-tap</li>
 <li>code from <a href="">stackoverflow.com</a> was used for media object and finding fixes for bugs</li>
+<li>code was formatted using <a href="https://webformatter.com/html>webformatter.com</li>
 </ul>
 
 <h2>Testing</h2>
@@ -177,13 +180,10 @@ Making a Local Clone
 <h2>
 Credits</h2>
 <p>
-Background image:	Photo by Jarosław Kwoczała on Unsplash
-Lady-one photo: 	Photo by Kayla Farmer on Unsplash
-
-Man-one Photo: 	Photo by Can yılmaz on Unsplash
-
-Lady-two photo:  	Photo by Anderson Guerra from Pexels
-
+Background image:	Photo by Jarosław Kwoczała on Unsplash<br>
+Lady-one photo: 	Photo by Kayla Farmer on Unsplash<br>
+Man-one Photo: 	Photo by Can yılmaz on Unsplash<br>
+Lady-two photo:  	Photo by Anderson Guerra from Pexels<br>
 Man-two photo; 	Photo by Italo Melo from Pexels
 </p>
 <h2>Content</h2>

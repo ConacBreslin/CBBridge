@@ -52,7 +52,7 @@ As the quantity of information on the website was not extensive a single page li
 
 ## Skeleton
 The page starts with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile)
-, [mediumscreens](/assets/wireframes/balsamiq-medium-view.bmpr),  and [desktop](/assets/wireframes/balsamiq-desktop-view.bmpr”)
+, [mediumscreens](assets/wireframes/balsamiq-medium-view.bmpr),  and [desktop](assets/wireframes/balsamiq-desktop-view.bmpr”)
 The site has a modal addressing the adaption of the club during COVID-19 restrictions.
 
 ## Surface/Design

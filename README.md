@@ -153,6 +153,7 @@ The site’s Performance, Accessibility, Best Practices and SEO were auditted re
 <p>It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections</p>
 
 <h2>Known Bugs</h2>
+<p>There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.Howeevr Code Institue teaching and <a href="https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382">stackoverflow.com</a> permit this.</p>
 
 
 <h2>Deployment</h2>

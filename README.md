@@ -74,9 +74,9 @@ The Comfortaa font was selected in [Google fonts](https://fonts.google.com/) for
 - The Alert banner disappears on small screens.
 - The Navbar collapses and dismisses on tap on small screens.
 - The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.
-- The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information. There is more information available on bigger screens than on mobiles.
-- The Learn Bridge with Us section gives information on all aspects of classes.
-- The Play Bridge with Us section gives information on all aspects of play.
+- The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information. There are additional information paragraphs available on bigger screens.
+- The Learn Bridge with Us section gives information on all aspects of CBBridge classes.
+- The Play Bridge with Us section gives information on all aspects of CBBridge play sessions.
 - The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
 
 ## Future features
@@ -86,7 +86,9 @@ In the future it would be anticipated that the site would;
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
 - provide interactive bridge hands and quizzes.
-
+- revisit the responsiveness of the class and play timetables as some users did not immediately realise that the tables were swipeable.
+- futher customise the navbar with green brackgound and silver text to blend in more with the site.
+- 
 ## Languages used
 
 HTML5
@@ -94,34 +96,34 @@ HTML5
 CSS3
 
 ## Frameworks, Libraries and online resources used
-- [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes
-- Gits's [gitpod](https://www.gitpod.io/) was used for writing and editing code
-- [GitHub](https://github.com/) was used for storing the code after being pushed from Git
-- [Bootstrap 4.6.1](https://getbootstrap.com/) was used to help keep design responsive and to help styling.
-- [jQuery](https://jquery.com/) came with Bootstrap to make the navbar response
+- [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
+- Gits's [gitpod](https://www.gitpod.io/) was used for writing and editing code.
+- [GitHub](https://github.com/) was used for storing the code after being pushed from Git.
+- [Bootstrap 4.6.1](https://getbootstrap.com/) was used for responsiveness and to styling.
+- [jQuery](https://jquery.com/) came with Bootstrap for responsiveness.
 - [Google fonts](https://fonts.google.com/) was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
-- [zyro.com](https://logo.zyro.com)  was used to create the logo
-- [Bootstrap icons](https://icons.getbootstrap.com/) was used to import the icons
-- Photos were used from [unsplash.com](https://unsplash.com/)
-- Photos were used from [pexels.com](https://www.pexels.com/) 
-- [online-image-editor.com](https://www.online-image-editor.com/) was used to edit images
-- [tinypng.com](https://tinypng.com/") was used to resize images
-- Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon
-- [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon
-- code from [ourcodeworld.com](https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css) was used to make the tables responsive
-- code from [css-tricks.com](https://css-tricks.com/) was used to import the background image
-- code from [codeply.com](https://www.codeply.com/go/PqIBtz3HPL) was used to create	dismiss-on-tap
-- code from [stackoverflow.com]() was used for media object and finding fixes for bugs
-- code was formatted using [webformatter.com](https://webformatter.com/html)
+- [zyro.com](https://logo.zyro.com)  was used to create the logo.
+- [Bootstrap icons](https://icons.getbootstrap.com/) was used to import the icons.
+- Photos were used from [unsplash.com](https://unsplash.com/).
+- Photos were used from [pexels.com](https://www.pexels.com/).
+- [online-image-editor.com](https://www.online-image-editor.com/) was used to edit images.
+- [tinypng.com](https://tinypng.com/") was used to resize images.
+- Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon.
+- [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon.
+- code from [ourcodeworld.com](https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css) was used to make the tables responsive.
+- code from [css-tricks.com](https://css-tricks.com/) was used to import the background image.
+- code from [codeply.com](https://www.codeply.com/go/PqIBtz3HPL) was used to create	dismiss-on-tap.
+- code from [stackoverflow.com]() was used for media object and finding fixes for bugs.
+- code was formatted using [webformatter.com](https://webformatter.com/html).
 
 ## Testing
 
-Testing User Stories from User Experience (UX) Section
+Testing User Stories from User Experience (UX) Section.
 
 ## Manual Testing
 
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. THe code was submitted for peer-review in Code Institutes peer-code-revei channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
+The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. The code was submitted for peer-review in Code Institutes peer-code-reveiew channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
 
 ## Code Validation.
 
@@ -166,30 +168,28 @@ The  GitHub Repository can be forked to make a copy of the original repository o
 3.	There should now be a copy of the original repository in your GitHub account.
 
 Making a Local Clone
-1.	Logging in to GitHub and locateing the [GitHub Repository](https://github.com/ConacBreslin/CBBridge) 
+1.	Logging in to GitHub and locateing the [GitHub Repository](https://github.com/ConacBreslin/CBBridge).
 2.	Under the repository name, clicking the dropdown button marked “Code” and then selecting "Clone or download".
 3.	To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4.	Open Git Bash
+4.	Open Git Bash.
 5.	Change the current working directory to the location where you want the cloned directory to be made.
 6.	Type git clone, and then paste the URL copied in Step 3.
-7.	Press Enter and the local clone will be created
+7.	Press Enter and the local clone will be created.
 
 ## Credits
 
-- Background image:	Photo by Jarosław Kwoczała on Unsplash
-- Lady-one photo: 	Photo by Kayla Farmer on Unsplash
-- Man-one Photo: 	Photo by Can yılmaz on Unsplash
-- Lady-two photo:  	Photo by Anderson Guerra from Pexels
-- Man-two photo; 	Photo by Italo Melo from Pexels
+- Background image:	Photo by Jarosław Kwoczała on Unsplash.
+- Lady-one photo: 	Photo by Kayla Farmer on Unsplash.
+- Man-one Photo: 	Photo by Can yılmaz on Unsplash.
+- Lady-two photo:  	Photo by Anderson Guerra from Pexels.
+- Man-two photo; 	Photo by Italo Melo from Pexels.
 
 ## Content
 
-All content was written by the developer
+All content was written by the developer.
 
 ## Acknowledgements
 
-I would like to thank my mentor Chris Quinn for sound advice and support.
-I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Tim, Jo, Igor and Fatima.
-I would like to thank Stephen Seagrave for his [excellent presentation](https://us02web.zoom.us/rec/play/zZzrdRcJ1Gz9isoaRTUcHNhB1VEqzkhcI4kkOUXEbTGTShtMaNQEpxYE7dW214K5X2OWveSRPLL-oWtA.5EMQT2YvoO2ZLIox?autoplay=true) on MS1 projects that I referred to repeatedly.
+I would like to thank my mentor Chris Quinn for sound advice and support. I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Tim, Jo, Igor and Fatima. I would like to thank Stephen Seagrave for his [excellent presentation](https://us02web.zoom.us/rec/play/zZzrdRcJ1Gz9isoaRTUcHNhB1VEqzkhcI4kkOUXEbTGTShtMaNQEpxYE7dW214K5X2OWveSRPLL-oWtA.5EMQT2YvoO2ZLIox?autoplay=true) on MS1 projects that I referred to repeatedly.
 Finally I would like to thank my family and friends for support and feedback and in particular the hilarious [comments about bridge](assets/pdfs/background-research.pdf) that always made me laugh!
 

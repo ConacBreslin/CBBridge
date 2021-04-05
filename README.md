@@ -149,6 +149,8 @@ The site’s Performance, Accessibility, Best Practices and SEO were auditted re
 <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Chrome Lighthouse</a> and the results of these logs and fixes are documented <a href="">here</a>
 
 </p>
+<h2>Changes over course of development</h2>
+<p>It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections</p>
 
 <h2>Known Bugs</h2>
 

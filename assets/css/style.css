@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&family=Montserrat:wght@400;600&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css");
 
-/*----------------------General styles across site---------------------------*/
+/*-- General styles across site --*/
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -65,7 +65,7 @@ color: #c6c5b9;
     text-align: center;
 }
 
-/*----------------------Table responsiveness snippet from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css--------------------------*/
+/*-- Table responsiveness code from https://ourcodeworld.com/ --*/
 .table-responsive {
     min-height: .01%;
     overflow-x: auto;
@@ -145,7 +145,7 @@ color: #c6c5b9;
     font-size: 2.5rem
  }
 
-/*----------------------Nav Bar---------------------------*/
+/*-- Nav Bar --*/
 
 .navbar-nav {
     text-align: center;
@@ -176,8 +176,7 @@ color: #c6c5b9;
 
 /*----------------------Callout---------------------------*/
 
-/* 
-Code snippet from https://css-tricks.com/  */
+/*-- Code snippet from https://css-tricks.com/ --*/
 
 .callout-container {
     min-height: 100vh;

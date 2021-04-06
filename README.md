@@ -5,13 +5,13 @@ This website is designed for a ficticious Bridge Club called CBBridge. Bridge is
 ## User Experience (UX)
 A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
 On visiting the site they should be able to 
-- Understand the purpose of the site.
-- Understand the content/layout of webpage from the main page.
-- Easily navigate to find out information about Bridge in general.
-- Easily navigate to find out information on Bridge classes and sign up for them.
-- Easily navigate to information on Bridge play and sign up to play.
-- Easily navigate to the Contact form and send information from there.
-- Easily return to the main page from all sections.
+1. Understand the purpose of the site.
+2. Understand the content/layout of webpage from the main page.
+3. Easily navigate to find out information about Bridge in general.
+4. Easily navigate to find out information on Bridge classes and sign up for them.
+5. Easily navigate to information on Bridge play and sign up to play.
+6. Easily navigate to the Contact form and send information from there.
+7. Easily return to the main page from all sections.
 ## Strategy
 A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called [bridgewebs.com](https://www.bridgewebs.com/). This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
 Following background research with both bridge players and non-bridge players [see results here](assets/pdfs/background-research.pdf). It was felt that the website needed to; 
@@ -90,22 +90,42 @@ In the future it would be anticipated that the site would;
 - [stackoverflow.com]() was consulted regularly for advice and for fixing for bugs.
 - code was formatted using [webformatter.com](https://webformatter.com/html).
 ## Testing
-Testing User Stories from User Experience (UX) Section.
-## Manual Testing
-The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
-## Validation.
+### Validation.
 The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here]().
 The site’s css validation was tested by 
 [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/"). The errors identified and fixes are documented [here]().
-## Lighthouse Audits
+### Lighthouse Audits
 The site’s Performance, Accessibility, Best Practices and SEO were audited by 
 [Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this and improvements made are documented [here]().
+## Manual Testing
+The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
+### Testing User Stories from User Experience (UX) Section.
+1. Understand the purpose of the site
+        - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links to all sections.
+        - the ethos and purpose of the club is summarised in the secondary heading
+        - there is an option to invite users to sign up from the main welcome page.
+2. Understand the content/layout of webpage from the main page.
+    - the user can immediately see all the sections on the site on both the navbar and on the callout page links.
+3. Easily navigate to find out information about Bridge in general.
+    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+4. Easily navigate to find out information on Bridge classes and sign up for them.
+    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+5. Easily navigate to information on Bridge play and sign up to play.
+    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+6. Easily navigate to the Contact form and send information from there.
+    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+    - the Sign Up form has a clear submission button.
+    - required fields identify themselves to user before submmission is allowed.
+    - on clicking the submission button a modal warns the user of adaptations to classes and play during Covid restrictions.
+7. Easily return to the main page from all sections.
+    - the sticky navbar allows the user to navigate to any area of the site from their current location.
 ## Changes over course of development
 It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections.
-The modal was temporarily abandoned as complicating the submit procedure but was then simplified and reinstated.
+The modal was temporarily abandoned as the buttons included on it were complicating the submit procedure but it was then simplified and reinstated.
 ## Known Bugs
 There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.However Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.
+Not all users were immediately aware that the tables were  swipeable on mobiles
 ## Deployment
 ### The project was deployed to GitHub Pages in the following way. 
 1.	By logging in to the [GitHub Repository](https://github.com/)   

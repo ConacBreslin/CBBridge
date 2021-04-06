@@ -46,7 +46,7 @@ The hero image was a key aspect of the site it was found in [unsplash.com](https
 ### Colour scheme
  [IMAGECOLORPICKER.com](https://imagecolorpicker.com/) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](https://coolors.co/) to generate [this colour palette](assets/images/colour-palette.png) which was felt to be contemporary and subtle.
 ### Typography
-The Comfortaa font was selected in [Google fonts](https://fonts.google.com/) for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing.
+The Comfortaa font was selected in [Google fonts](https://fonts.google.com/) for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing. The fallback font is Sans Serif.
 ## Features
 - Responsiveness on all device sizes.
 - The Alert banner disappears on small screens.
@@ -65,17 +65,18 @@ In the future it would be anticipated that the site would;
 - revisit the responsiveness of the class and play timetables as some users did not immediately realise that the tables were swipeable.
 - futher customise the navbar with green brackgound and silver text to blend in more with the site.
 ## Languages used
-HTML5
-CS
+[HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+[CSS](https://en.wikipedia.org/wiki/CSS)
 ## Frameworks, Libraries and online resources used
 - [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
-- Gits's [gitpod](https://www.gitpod.io/) was used for writing and editing code.
+- Gits's [gitpod](https://www.gitpod.io/) was used for writing and editing code, and for submitting and pushing to GitHub.
 - [GitHub](https://github.com/) was used for storing the code after being pushed from Git.
-- [Bootstrap 4.6.1](https://getbootstrap.com/) was used for responsiveness and to styling.
+- [Bootstrap 4.6.1](https://getbootstrap.com/) was used for responsiveness and styling.
 - [jQuery](https://jquery.com/) came with Bootstrap for responsiveness.
 - [Google fonts](https://fonts.google.com/) was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
 - [zyro.com](https://logo.zyro.com)  was used to create the logo.
-- [Bootstrap icons](https://icons.getbootstrap.com/) was used to import the icons.
+- [Font awesome](https://fontawesome.com/) and [Bootstrap icons](https://icons.getbootstrap.com/) was used to import the icons.
 - Photos were used from [unsplash.com](https://unsplash.com/).
 - Photos were used from [pexels.com](https://www.pexels.com/).
 - [online-image-editor.com](https://www.online-image-editor.com/) was used to edit images.
@@ -91,43 +92,41 @@ CS
 Testing User Stories from User Experience (UX) Section.
 ## Manual Testing
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. The code was submitted for peer-review in Code Institutes peer-code-reveiew channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
-## Code Validation.
-The site’s html validation was tested repeatedly by direct input into
-[validator.w3.org](https://validator.w3.org/) and the results of these logs and fixes are documented [here]().
-## Style validation
-The site’s css validation was tested repeatedly by 
-[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/") and the results of these logs and fixes are documented [here]().
+The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
+## Validation.
+The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here]().
+The site’s css validation was tested by 
+[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/"). The errors identified and fixes are documented [here]().
 ## Lighthouse Audits
-The site’s Performance, Accessibility, Best Practices and SEO were auditted repeatedly by 
-[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of these logs and fixes are documented [here]().
+The site’s Performance, Accessibility, Best Practices and SEO were audited by 
+[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this and improvements made are documented [here]().
 ## Changes over course of development
 It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections.
 The modal was temporarily abandoned as complicating the submit procedure but was then simplified and reinstated.
 ## Known Bugs
 There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.However Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.
 ## Deployment
-GitHub Pages
-The project was deployed to GitHub Pages in the following way. 
-1.	By Logging in to GitHub and locating the [GitHub](https://github.com/)   
-2.	At the top of the Repository locating the "Settings" Button on the menu.
+### The project was deployed to GitHub Pages in the following way. 
+1.	By logging in to the [GitHub Repository](https://github.com/)   
+2.	Selecting the "Settings" Button in the menu at the top of the Repository.
 3.	Scrolling down the Settings page to the "GitHub Pages" Section.
-4.	Under "Source", clicking the dropdown called "None" and selecting "Master Branch".
-5.	The page automatically refreshes.
-6.	Scrolling back down through the page to locate the [link to the published site](https://conacbreslin.github.io/CBBridge/”)  in "GitHub Pages".
-Forking the GitHub Repository
+4.	Under "Source", clicking the dropdown menu labelled "None" and selecting "Master Branch".
+5.	The page will refresh itself.
+6.	Scrolling back down the page to locate the [link to the published site](https://conacbreslin.github.io/CBBridge/”)  in "GitHub Pages".
+
+### Forking the GitHub Repository
 The  GitHub Repository can be forked to make a copy of the original repository on the GitHub account to view and/or make changes without affecting the original repository in the following way.
-1.	Logging in to GitHub and locating the [GitHub Repository](https://github.com/ConacBreslin/CBBridge) 
-2.	At the top of the Repository (not top of page) above the "Settings" Button and over to the left locate the "Fork" Button.
-3.	There should now be a copy of the original repository in your GitHub account.
+1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/ConacBreslin/CBBridge) 
+2.	Selecting the "Fork" button at the top of the Repository (it is located above the "Settings" Button and over to the right).
+3.	There should then be a copy of the original repository in your GitHub account.
 Making a Local Clone
-1.	Logging in to GitHub and locateing the [GitHub Repository](https://github.com/ConacBreslin/CBBridge).
+1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/ConacBreslin/CBBridge).
 2.	Under the repository name, clicking the dropdown button marked “Code” and then selecting "Clone or download".
-3.	To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4.	Open Git Bash.
-5.	Change the current working directory to the location where you want the cloned directory to be made.
-6.	Type git clone, and then paste the URL copied in Step 3.
-7.	Press Enter and the local clone will be created.
+3.	To clone the repository using HTTPS, under "Clone with HTTPS", copying the link.
+4.	Opening Git Bash.
+5.	Changing the current working directory to the location where you want the cloned directory to be made.
+6.	Typing git clone, and pasting the URL copied in Step 3.
+7.	Pressing Enter to create the local clone.
 ## Credits
 - Background image:	Photo by Jarosław Kwoczała on Unsplash.
 - Lady-one photo: 	Photo by Kayla Farmer on Unsplash.

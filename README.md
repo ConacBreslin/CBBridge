@@ -14,7 +14,7 @@ On visiting the site they should be able to
 7. Easily return to the main page from all sections.
 ## Strategy
 A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called [bridgewebs.com](https://www.bridgewebs.com/). This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.
-Following background research with both bridge players and non-bridge players [see results here](assets/pdfs/background-research.pdf). It was felt that the website needed to; 
+Following background research with both bridge players and non-bridge players [(see results here)](assets/pdfs/background-research.pdf). It was felt that the website needed to; 
 - address the barriers to starting bridge,
 - provide information on classes and the ability to sign up,
 - providing information on play and the ability to signup.
@@ -29,7 +29,7 @@ Consequently the opportunities to be included in the first release included
 
 Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.
 
-Functional requirements; 	    To achieve this the website will provide them with re information that takes into account the research findings and the site will include the ability to sign up to the club from website.
+Functional requirements; 	    To achieve this the website will provide them with re information that takes into account the research findings and the site will include the ability to sign up to the club from the website.
 
 Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.
 
@@ -59,11 +59,12 @@ The Comfortaa font was selected in [Google fonts](https://fonts.google.com/) for
 ## Future features
 In the future it would be anticipated that the site would;
 - have less text in sections that can be truncated with an ellipsis and a ‘read more’ option,
+- customise the navbar with green brackgound and silver text to blend in (this was not achieved on this release due to difficulties styling the hamburger icon svg).
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
-- ilnk to exisiting online bridge platforms like BridgeBAseOnline and RealBridge
+- ilnk to exisiting online bridge platforms like BridgeBaseOnline and RealBridge
 - provide interactive bridge hands and quizzes.
-- further customise the navbar with green brackgound and silver text to blend in more with the site (this was not achieved on this release due to difficulties styling the hamburger icon svg).
+
 ## Languages used
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
 

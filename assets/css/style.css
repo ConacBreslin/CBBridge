@@ -252,6 +252,10 @@ mark {
 .classes-table a:hover{
     font-weight: bold;
 }
+
+.swipe-table-label{
+    font-size: 12px;
+}
 /*---------------------Sign Up--------------------------*/
 
 select.form-select {

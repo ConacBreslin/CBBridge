@@ -37,8 +37,8 @@ Business rule requirements;     The site will conform to data protection regulat
 ## Structure
 As the quantity of information on the website was not extensive a single page linear structure was planned. Users are to be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form should collect essential information and allow visitors to include their ability level and what they are interested in (classes, play or both).
 ## Skeleton
-The page is to start with an alert banner and navigation bar followed by a simple hero image with immediate links to classes and play. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile)
-, [mediumscreens](assets/wireframes/balsamiq-medium-view.bmpr),  and [desktop](assets/wireframes/balsamiq-desktop-view.bmpr”)
+The page is to start with an alert banner and navigation bar followed by a hero image with immediate links to classes, play and sign up. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile-wireframe.png)
+, [mediumscreens](assets/wireframes/medium-wireframe.png),  and [desktop](assets/wireframes/desktop-wireframe.png)
 The site has a modal addressing the adaption of the club during COVID-19 restrictions.
 ## Surface/Design
 ### Imagery
@@ -61,9 +61,10 @@ In the future it would be anticipated that the site would;
 - have less text in sections that can be truncated with an ellipsis and a ‘read more’ option,
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
+- ilnk to exisiting online bridge platforms like BridgeBAseOnline and RealBridge
 - provide interactive bridge hands and quizzes.
 - revisit the responsiveness of the class and play timetables as some users did not immediately realise that the tables were swipeable.
-- futher customise the navbar with green brackgound and silver text to blend in more with the site.
+- further customise the navbar with green brackgound and silver text to blend in more with the site.
 ## Languages used
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
 

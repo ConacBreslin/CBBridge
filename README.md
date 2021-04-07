@@ -37,7 +37,7 @@ Business rule requirements;     The site will conform to data protection regulat
 ## Structure
 As the quantity of information on the website was not extensive a single page linear structure was planned. Users are to be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form should collect essential information and allow visitors to include their ability level and what they are interested in (classes, play or both).
 ## Skeleton
-The page is to start with an alert banner and navigation bar followed by a hero image with immediate links to classes, play and sign up. This is followed by sections addressing each opportunity identified and finally a form for signing up. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile-wireframe.png)
+The page is to start with an alert banner and navigation bar followed by a hero image with immediate links to classes, play and sign up. This is followed by sections addressing each opportunity identified containing infomration and testamonials, and finally a form for signing up. Inspirational quotes are to be included between sections. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile-wireframe.png)
 , [mediumscreens](assets/wireframes/medium-wireframe.png),  and [desktop](assets/wireframes/desktop-wireframe.png)
 The site has a modal addressing the adaption of the club during COVID-19 restrictions.
 ## Surface/Design

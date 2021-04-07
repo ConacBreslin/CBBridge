@@ -46,7 +46,7 @@ The hero image was a key aspect of the site it was found in [unsplash.com](https
 ### Colour scheme
  [IMAGECOLORPICKER.com](https://imagecolorpicker.com/) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](https://coolors.co/) to generate [this colour palette](assets/images/colour-palette.png) which was felt to be contemporary and subtle.
 ### Typography
-The Comfortaa font was selected in [Google fonts](https://fonts.google.com/) for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing. The fallback font is Sans Serif.
+The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing. The fallback font is Sans Serif.
 ## Features
 - Responsiveness on all device sizes.
 - The Alert banner disappears on small screens.
@@ -59,10 +59,10 @@ The Comfortaa font was selected in [Google fonts](https://fonts.google.com/) for
 ## Future features
 In the future it would be anticipated that the site would;
 - have less text in sections that can be truncated with an ellipsis and a ‘read more’ option,
-- customise the navbar with green brackgound and silver text to blend in (this was not achieved on this release due to difficulties styling the hamburger icon svg).
+- customise the navbar with green brackgound and silver text to blend in (this was not achieved on this release due to difficulties styling the hamburger icon svg),
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
-- ilnk to exisiting online bridge platforms like BridgeBaseOnline and RealBridge
+- ilnk to exisiting online bridge platforms like BridgeBaseOnline and RealBridge,
 - provide interactive bridge hands and quizzes.
 
 ## Languages used
@@ -75,13 +75,13 @@ In the future it would be anticipated that the site would;
 - [GitHub](https://github.com/) was used for storing the code after being pushed from Git.
 - [Bootstrap 4.6.1](https://getbootstrap.com/) was used for responsiveness and styling.
 - [jQuery](https://jquery.com/) came with Bootstrap for responsiveness.
-- [Google fonts](https://fonts.google.com/) was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
+- [Google Fonts](https://fonts.google.com/) was used to import the ‘Comfortaa’ and ‘Montserrat’ fonts into the style.css file.
 - [zyro.com](https://logo.zyro.com)  was used to create the logo.
-- [Font awesome](https://fontawesome.com/) and [Bootstrap icons](https://icons.getbootstrap.com/) was used to import the icons.
+- [Font Awesome](https://fontawesome.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) was used to import the icons.
 - Photos were used from [unsplash.com](https://unsplash.com/).
 - Photos were used from [pexels.com](https://www.pexels.com/).
 - [online-image-editor.com](https://www.online-image-editor.com/) was used to edit images.
-- [tinypng.com](https://tinypng.com/") was used to resize images.
+- [tinypng.com](https://tinypng.com/) was used to resize images.
 - Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon.
 - [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon.
 - The map and details for embedding were taken from [Google map](https://www.google.co.uk/maps/)
@@ -94,18 +94,18 @@ In the future it would be anticipated that the site would;
 ### Validation.
 The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here]().
 The site’s css validation was tested by 
-[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/"). The errors identified and fixes are documented [here]().
+[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/). The errors identified and fixes are documented [here]().
 ### Lighthouse Audits
 The site’s Performance, Accessibility, Best Practices and SEO were audited by 
 [Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this and improvements made are documented [here]().
 ## Manual Testing
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices. Links were repeatedly tested. Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
+It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to help identify bugs and user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
 ### Testing User Stories from User Experience (UX) Section.
 1. Understand the purpose of the site
         - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links to all sections.
         - the ethos and purpose of the club is summarised in the secondary heading
-        - there is an option to invite users to sign up from the main welcome page.
+        - there is a button linking to the sign up form from the main welcome page.
 2. Understand the content/layout of webpage from the main page.
     - the user can immediately see all the sections on the site on both the navbar and on the callout page links.
 3. Easily navigate to find out information about Bridge in general.
@@ -123,10 +123,15 @@ The website was viewed on a variety of devices. Links were repeatedly tested. Fr
     - the sticky navbar allows the user to navigate to any area of the site from their current location.
 ## Changes over course of development
 It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections.
+
 The modal was temporarily abandoned as the buttons included on it were complicating the submit procedure but it was then simplified and reinstated.
+
+Labels were added to tables to indicate their swipeability.
 ## Known Bugs
 There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.However Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.
+
 When navigating on mobiles the navbar covers section headings, adding dimiss-on-tap improved but did not eliminate this issue.
+
 The navbar does not display in scrolling on some Samsung devices.
 ## Deployment
 ### The project was deployed to GitHub Pages in the following way. 
@@ -135,7 +140,7 @@ The navbar does not display in scrolling on some Samsung devices.
 3.	Scrolling down the Settings page to the "GitHub Pages" Section.
 4.	Under "Source", clicking the dropdown menu labelled "None" and selecting "Master Branch".
 5.	The page will refresh itself.
-6.	Scrolling back down the page to locate the [link to the published site](https://conacbreslin.github.io/CBBridge/”)  in "GitHub Pages".
+6.	Scrolling back down the page to locate the [link to the published site](https://conacbreslin.github.io/CBBridge/)  in "GitHub Pages".
 
 ### Forking the GitHub Repository
 The  GitHub Repository can be forked to make a copy of the original repository on the GitHub account to view and/or make changes without affecting the original repository in the following way.
@@ -163,6 +168,6 @@ I would like to thank my mentor Chris Quinn for sound advice and support.
 
 I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Tim, Jo, Igor and Fatima. 
 
-I would like to thank Stephen Seagrave for his [excellent presentation](https://us02web.zoom.us/rec/play/zZzrdRcJ1Gz9isoaRTUcHNhB1VEqzkhcI4kkOUXEbTGTShtMaNQEpxYE7dW214K5X2OWveSRPLL-oWtA.5EMQT2YvoO2ZLIox?autoplay=true) on MS1 projects that I referred to repeatedly.
+I would like to thank Stephen Seagrave for his [excellent presentation](https://us02web.zoom.us/rec/play/zZzrdRcJ1Gz9isoaRTUcHNhB1VEqzkhcI4kkOUXEbTGTShtMaNQEpxYE7dW214K5X2OWveSRPLL-oWtA.5EMQT2YvoO2ZLIox?autoplay=true) on MS1 projects that I consulted repeatedly.
 
 Finally I would like to thank my family and friends for support and feedback and in particular the hilarious [comments about bridge](assets/pdfs/background-research.pdf) that always made me laugh!

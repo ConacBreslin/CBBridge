@@ -65,7 +65,7 @@ color: #c6c5b9;
     text-align: center;
 }
 
-/*-- Table responsiveness code from https://ourcodeworld.com/ --*/
+/*-- Table responsiveness code from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css --*/
 .table-responsive {
     min-height: .01%;
     overflow-x: auto;
@@ -176,7 +176,7 @@ color: #c6c5b9;
 
 /*----------------------Callout---------------------------*/
 
-/*-- Code snippet from https://css-tricks.com --*/
+/*-- Code snippet from https://css-tricks.com/perfect-full-page-background-image/ vendor extensions removed for this project --*/
 
 .callout-container {
     min-height: 100vh;
@@ -196,8 +196,6 @@ color: #c6c5b9;
 .callout-container h3 {
     color: #c6c5b9; 
 }
-
-
 
 #callout-maincontent {
     margin-bottom: 30px;
@@ -304,8 +302,6 @@ footer a:hover {
 
     font-size: 1.5rem;
 }
-/* 
-.footer-container ul {padding-inline-start: 20px;} */
 
 #footer-row {
     padding-top:15px;

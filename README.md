@@ -86,7 +86,7 @@ In the future it would be anticipated that the site would;
 - [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon.
 - The map and details for embedding were taken from [Google map](https://www.google.co.uk/maps/)
 - code from [ourcodeworld.com](https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css) was used to make the tables responsive.
-- code from [css-tricks.com](https://css-tricks.com/) was used to import the background image.
+- code from [css-tricks.com](https://css-tricks.com/perfect-full-page-background-image/) was used to import the background image. Vendor extensions were removed for this project.
 - code from [codeply.com](https://www.codeply.com/go/PqIBtz3HPL) was used to create	dismiss-on-tap.
 - [stackoverflow.com]() was consulted regularly for advice and for fixing for bugs.
 - code was formatted using [webformatter.com](https://webformatter.com/html).

@@ -63,8 +63,7 @@ In the future it would be anticipated that the site would;
 - provide an online discussion forum for bridge problems,
 - ilnk to exisiting online bridge platforms like BridgeBAseOnline and RealBridge
 - provide interactive bridge hands and quizzes.
-- revisit the responsiveness of the class and play timetables as some users did not immediately realise that the tables were swipeable.
-- further customise the navbar with green brackgound and silver text to blend in more with the site.
+- further customise the navbar with green brackgound and silver text to blend in more with the site (this was not achieved on this release due to difficulties styling the hamburger icon svg).
 ## Languages used
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
@@ -126,7 +125,8 @@ It was decided to use a sticky navbar which removed the need to 'return to top' 
 The modal was temporarily abandoned as the buttons included on it were complicating the submit procedure but it was then simplified and reinstated.
 ## Known Bugs
 There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.However Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.
-Not all users were immediately aware that the tables were  swipeable on mobiles
+When navigating on mobiles the navbar covers section headings, adding dimiss-on-tap improved but did not eliminate this issue.
+The navbar does not display in scrolling on some Samsung devices.
 ## Deployment
 ### The project was deployed to GitHub Pages in the following way. 
 1.	By logging in to the [GitHub Repository](https://github.com/)   

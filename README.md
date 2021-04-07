@@ -92,15 +92,15 @@ In the future it would be anticipated that the site would;
 - code was formatted using [webformatter.com](https://webformatter.com/html).
 ## Testing
 ### Validation.
-The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here]().
+The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/html-validator-testing.png).
 The site’s css validation was tested by 
-[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/). The errors identified and fixes are documented [here]().
+[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/jigsaw-testing.png).
 ### Lighthouse Audits
 The site’s Performance, Accessibility, Best Practices and SEO were audited by 
-[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this and improvements made are documented [here]().
+[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this and improvements made are documented [here](assets/images/lighthouse-log.png).
 ## Manual Testing
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to help identify bugs and user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here]().
+It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to help identify bugs and user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
 ### Testing User Stories from User Experience (UX) Section.
 1. Understand the purpose of the site
         - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links to all sections.

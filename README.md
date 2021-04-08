@@ -58,8 +58,7 @@ The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for
 - The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
 ## Future features
 In the future it would be anticipated that the site would;
-- have less text in sections that can be truncated with an ellipsis and a ‘read more’ option,
-- customise the navbar with green brackgound and silver text to blend in (this was not achieved on this release due to difficulties styling the hamburger icon svg),
+- have less text in sections that can be truncated with an ellipsis and a ‘read more’ option, (scrollbars were not wanted on this release)
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
 - ilnk to exisiting online bridge platforms like BridgeBaseOnline and RealBridge,

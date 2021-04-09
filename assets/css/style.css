@@ -1,51 +1,49 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&family=Montserrat:wght@400;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;700&family=Montserrat:wght@400;600&display=swap");
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css");
 
 /*-- General styles across site --*/
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
-h1, h2 { 
-    font-family: 'Comfortaa', cursive;
+h1,
+h2 {
+    font-family: "Comfortaa", cursive;
     margin-top: 30px;
-    margin-bottom:15px;
+    margin-bottom: 15px;
     font-weight: 600;
-    }
+}
 
- 
 .btn {
-    color: #C6C5B9;
-    background-color:#263538;
-    border-color: #C6C5B9;
+    color: #c6c5b9;
+    background-color: #263538;
+    border-color: #c6c5b9;
     margin: 32px 0;
     border-radius: 12px;
     transition: all 0.25s ease 0s;
-
 }
 .btn:hover {
     color: #263538;
-    background-color:#C6C5B9;
-    border-color: #263538; 
+    background-color: #c6c5b9;
+    border-color: #263538;
 }
 
 .btn-signup a {
-color: #c6c5b9;
+    color: #c6c5b9;
 }
 
 .btn-signup a:hover {
-    color:#263538;
+    color: #263538;
     font-weight: bold;
     text-decoration: none;
 }
 
 .text-container {
-    background-color: rgba(198,197,185,0.5);
+    background-color: rgba(198, 197, 185, 0.5);
 }
 
-.icon-size
-{
+.icon-size {
     font-size: 48px;
 }
 
@@ -59,7 +57,7 @@ color: #c6c5b9;
 }
 
 .table-heading {
-    font-family: 'Comfortaa', cursive;
+    font-family: "Comfortaa", cursive;
     font-size: 24px;
     font-weight: 600;
     text-align: center;
@@ -67,7 +65,7 @@ color: #c6c5b9;
 
 /*-- Table responsiveness code from https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css --*/
 .table-responsive {
-    min-height: .01%;
+    min-height: 0.01%;
     overflow-x: auto;
 }
 
@@ -94,26 +92,25 @@ color: #c6c5b9;
 
 /*----------------------Quotes---------------------------*/
 
-
 .blockquote {
     margin-bottom: 1rem;
     font-size: 1rem;
     font-style: oblique;
 }
 
-.blockquote-footer{
+.blockquote-footer {
     color: #000;
     float: right;
     font-size: 100%;
 }
 
-.inspirational-quote {  
+.inspirational-quote {
     background-color: #263538;
-    color: #C6C5B9; 
+    color: #c6c5b9;
 }
 
-.inspirational-quote .blockquote-footer{
-    color:#fdfdff
+.inspirational-quote .blockquote-footer {
+    color: #fdfdff;
 }
 
 /*----------------------Alert Section---------------------------*/
@@ -133,17 +130,17 @@ color: #c6c5b9;
 .alert a {
     color: #263538;
     font-weight: 600;
-     transition: all 0.25s ease 0s;
+    transition: all 0.25s ease 0s;
 }
 
- .alert a:hover {
-     font-size: larger;
-     text-decoration: none;
- }  
+.alert a:hover {
+    font-size: larger;
+    text-decoration: none;
+}
 
 .alert .close {
-    font-size: 2.5rem
- }
+    font-size: 2.5rem;
+}
 
 /*-- Nav Bar --*/
 
@@ -152,27 +149,26 @@ color: #c6c5b9;
     font-size: 1.3rem;
 }
 
- .navbar-brand img#logo {
-    transition: all 0.25s ease 0s;  
+.navbar-brand img#logo {
+    transition: all 0.25s ease 0s;
 }
 
- .navbar-brand img#logo:hover {
+.navbar-brand img#logo:hover {
     height: 85px;
     width: 96px;
 }
 
- .nav-link {
+.nav-link {
     color: rgba(198, 197, 185, 1);
-     transition: all 0.25s ease 0s;
+    transition: all 0.25s ease 0s;
 }
 
- .nav-link:hover {
+.nav-link:hover {
     color: rgba(198, 197, 185, 1);
     font-size: 24px;
     font-weight: 600;
-    text-decoration:none;
+    text-decoration: none;
 }
-
 
 /*----------------------Callout---------------------------*/
 
@@ -180,26 +176,26 @@ color: #c6c5b9;
 
 .callout-container {
     min-height: 100vh;
-    background: url('../images/card-table.jpg') #263538 no-repeat center center ;
-    background-size: cover; 
+    background: url("../images/card-table.jpg") #263538 no-repeat center center;
+    background-size: cover;
 }
 
-.callout-container h1{
-    color: #c6c5b9; 
+.callout-container h1 {
+    color: #c6c5b9;
     line-height: 2;
 }
 
 .callout-container h2 {
-    color: #c6c5b9; 
+    color: #c6c5b9;
 }
 
 .callout-container h3 {
-    color: #c6c5b9; 
+    color: #c6c5b9;
 }
 
 #callout-maincontent {
     margin-bottom: 30px;
-    background-color: rgba(38,53,56,0.3);
+    background-color: rgba(38, 53, 56, 0.3);
     font-size: 32px;
     line-height: 32px;
 }
@@ -220,15 +216,13 @@ color: #c6c5b9;
 }
 
 mark {
-        font-size: 1.5rem;
-        background-color: #263538;
-        color: #fdfdff; 
-       
+    font-size: 1.5rem;
+    background-color: #263538;
+    color: #fdfdff;
 }
 
 #intro-offer {
     margin-top: 100px;
-   
 }
 
 #homepage-link {
@@ -239,7 +233,7 @@ mark {
 /*----------------------About Bridge---------------------------*/
 
 .text-container {
-    background-color: rgba(198,197,185,0.5);
+    background-color: rgba(198, 197, 185, 0.5);
 }
 
 /*---------------------Learn Bridge--------------------------*/
@@ -249,14 +243,14 @@ mark {
 }
 
 .classes-table a {
-    color: #212529
+    color: #212529;
 }
 
-.classes-table a:hover{
+.classes-table a:hover {
     font-weight: bold;
 }
 
-.swipe-table-label{
+.swipe-table-label {
     font-size: 12px;
 }
 /*---------------------Sign Up--------------------------*/
@@ -265,7 +259,7 @@ select.form-select {
     width: 100%;
 }
 
-#radiobutton-name{
+#radiobutton-name {
     margin-bottom: 0.2rem;
 }
 
@@ -273,9 +267,9 @@ label.form-label {
     font-weight: bold;
 }
 
- .form-control {
-     margin-bottom: 20px;
- }
+.form-control {
+    margin-bottom: 20px;
+}
 
 .form-group {
     margin-bottom: 1rem;
@@ -285,7 +279,7 @@ label.form-label {
 /*---------------------Footer--------------------------*/
 
 #links-list li {
-     list-style-type: none;
+    list-style-type: none;
 }
 
 footer {
@@ -300,18 +294,19 @@ footer a {
 footer a:hover {
     color: #c6c5b9;
     font-weight: 600;
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 .social-media-links {
-
     font-size: 1.5rem;
 }
 
 #footer-row {
-    padding-top:15px;
+    padding-top: 15px;
 }
-dl, ol, ul {
+dl,
+ol,
+ul {
     margin-top: 0;
     margin-bottom: 1rem;
     margin-right: 60px;
@@ -324,31 +319,29 @@ dl, ol, ul {
 }
 
 .social-media-links li a i:hover {
-    color: #c6c5b9;;
+    color: #c6c5b9;
     font-size: 2.5rem;
 }
- iframe {
-     width: 100%;
-     
- }
+iframe {
+    width: 100%;
+}
 
- /*---------------------Modal--------------------------*/
+/*---------------------Modal--------------------------*/
 
+.modal {
+    background-color: rgba(198, 197, 185, 0.5);
+}
+.modal-header {
+    color: #263538;
+    background-color: rgba(198, 197, 185, 0.5);
+    text-align: center;
+}
+.modal-body {
+    color: #c6c5b9;
+    background-color: #263538;
+    text-align: center;
+}
 
- .modal {
-      background-color: rgba(198,197,185,0.5);
- }
- .modal-header {
-     color:#263538;
-     background-color: rgba(198,197,185,0.5);
-     text-align: center;
- }
- .modal-body {
-     color: #C6C5B9;
-     background-color: #263538;
-     text-align: center;
- }
- 
- .modal-footer {
-     background-color: rgba(198,197,185,0.5);
- }
+.modal-footer {
+    background-color: rgba(198, 197, 185, 0.5);
+}

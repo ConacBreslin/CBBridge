@@ -1,6 +1,6 @@
 # **CBBridge Website**
 This website is designed for a ficticious Bridge Club called CBBridge. Bridge is a popular card game played by many people but suffers from a poor image The idea was to promote the CBBridge club in a contemporary and user-friendly way and to recruit students and players.
-![CBBridge mainpage](assets/images/screenshot-calloutpage.png)
+![CBBridge main page image](assets/images/screenshot-calloutpage.png)
 [View the deployed site here](https://conacbreslin.github.io/CBBridge/)
 ## User Experience (UX)
 A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
@@ -58,7 +58,8 @@ The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for
 - The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
 ## Future features
 In the future it would be anticipated that the site would;
-- have less text in sections that can be truncated with an ellipsis and a ‘read more’ option, (scrollbars were not wanted on this release)
+- have less text in sections that can be truncated with an ellipsis and a ‘read more’ option, (scrollbars were not wanted on this release),
+- get modal to appear only onceper visit to site,
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
 - ilnk to exisiting online bridge platforms like BridgeBaseOnline and RealBridge,

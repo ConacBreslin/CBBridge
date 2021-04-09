@@ -3,7 +3,7 @@ This website is designed for a ficticious Bridge Club called CBBridge. Bridge is
 ![CBBridge main page image](assets/images/screenshot-calloutpage.png)
 [View the deployed site here](https://conacbreslin.github.io/CBBridge/)
 ## User Experience (UX)
-A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge.  
+A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge. It is likely that prospective visitors might belong to an older age demographic and so the site was designed with this in mind.
 On visiting the site they should be able to 
 1. Understand the purpose of the site.
 2. Understand the content/layout of webpage from the main page.
@@ -59,7 +59,8 @@ The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for
 ## Future features
 In the future it would be anticipated that the site would;
 - have less text in sections that can be truncated with an ellipsis and a ‘read more’ option, (scrollbars were not wanted on this release),
-- get modal to appear only onceper visit to site,
+- make modal  appear only once per visit to site,
+- make menu options dismiss on tapping logo when returning to home
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
 - ilnk to exisiting online bridge platforms like BridgeBaseOnline and RealBridge,

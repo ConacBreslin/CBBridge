@@ -153,6 +153,10 @@ h2 {
     font-size: 1.3rem;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: #c6c5b9;
+}
+
 .bg-dark {
     background-color: #122126 !important;
 }
@@ -167,7 +171,7 @@ h2 {
 }
 
 .nav-link {
-    color: rgba(198, 197, 185, 1);
+    
     transition: all 0.25s ease 0s;
 }
 

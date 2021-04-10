@@ -153,8 +153,7 @@ h2 {
     font-size: 1.3rem;
 }
 
-
-.bg-dark  {
+.bg-dark {
     background-color: #122126 !important;
 }
 
@@ -201,7 +200,6 @@ h2 {
 .callout-container h3 {
     color: #c6c5b9;
 }
-
 
 mark {
     font-size: 1.75rem;

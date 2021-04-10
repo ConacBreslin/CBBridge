@@ -43,6 +43,10 @@ h2 {
     background-color: rgba(198, 197, 185, 0.5);
 }
 
+img {
+    height: 60px;
+    width: 60px;
+}
 .icon-size {
     font-size: 48px;
 }
@@ -148,6 +152,10 @@ h2 {
     text-align: center;
     font-size: 1.3rem;
 }
+/* 
+nav .navbar .navbar-dark .bg-dark {
+    background-color: #122126
+} */
 
 .navbar-brand img#logo {
     transition: all 0.25s ease 0s;

@@ -96,8 +96,8 @@ In the future it would be anticipated that the site would;
 ### Validation.
 - HTML.The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/html-validator-testing.png). There was a residual issue relating to the inclusion of text inside the iframe which is addressed in the log and is a known issue with iframes and validator.w3.org.
 - CSS. The site’s css validation was tested by [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/jigsaw-testing.png).
-- Lighthouse Audits. The site’s Performance, Accessibility, Best Practices and SEO were audited by 
-[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this and improvements made are documented [here](assets/images/lighthouse-log.png).
+- Lighthouse Audits. The site’s Performance, Accessibility, Best Practices and SEO were assessed by 
+[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this are [here](assets/images/lighthouse-report.png).
 - Manual Testing. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to identify bugs and feedback on user experience. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
 ### Testing User Stories from User Experience (UX) Section.

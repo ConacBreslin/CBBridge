@@ -11,7 +11,7 @@ On visiting the site they should be able to
 3. Easily navigate to find out information about Bridge in general.
 4. Easily navigate to find out information on Bridge classes and sign up for them.
 5. Easily navigate to information on Bridge play and sign up to play.
-6. Easily navigate to thgit loge Contact form and send information from there.
+6. Easily navigate to the Contact form and send information from there.
 7. Easily return to the main page from all sections.
 ## Strategy
 A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a generic template from an organisation called [bridgewebs.com](https://www.bridgewebs.com/). This provides a simple and easy way to create a webpage from a generic template which is tailored to the needs of most bridge clubs but has resulted in an overwhelming sameness of the sites and this bridge club wanted to create something different.

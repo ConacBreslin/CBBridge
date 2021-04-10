@@ -60,12 +60,10 @@ The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for
 In the future it would be anticipated that the site would;
 - have less text in sections that can be truncated with an ellipsis and a ‘read more’ option, (scrollbars were not wanted on this release),
 - make modal  appear only once per visit to site,
-- make menu options dismiss on tapping logo when returning to home
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
 - provide interactive bridge hands and quizzes,
 - link to exisiting online bridge platforms like BridgeBaseOnline and RealBridge.
--
 
 ## Languages used
 [HTML5](https://en.wikipedia.org/wiki/HTML5)

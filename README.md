@@ -126,6 +126,8 @@ The modal was temporarily abandoned as the buttons included on it were complicat
 
 Labels were added to tables to indicate their swipeability on small screens.
 
+The layout of the footer on mobile devices was changed to make the map full width under the other content as it was felt it was was too small in 1/3 column on mobiles.
+
 Unnecessary additional links from the main content of the callout page to other sections were removed to keep the callout page clean and uncluttered as they were dupicating the navigation which is accessible to from sticky navbar.
 ## Known Bugs
 There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.However Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.

@@ -43,7 +43,7 @@ h2 {
     background-color: rgba(198, 197, 185, 0.5);
 }
 
-img {
+.testamonial-pic {
     height: 60px;
     width: 60px;
 }
@@ -152,10 +152,11 @@ img {
     text-align: center;
     font-size: 1.3rem;
 }
-/* 
-nav .navbar .navbar-dark .bg-dark {
-    background-color: #122126
-} */
+
+
+.bg-dark  {
+    background-color: #122126 !important;
+}
 
 .navbar-brand img#logo {
     transition: all 0.25s ease 0s;

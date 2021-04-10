@@ -202,36 +202,15 @@ h2 {
     color: #c6c5b9;
 }
 
-#callout-maincontent {
-    margin-bottom: 30px;
-    background-color: rgba(38, 53, 56, 0.3);
-    font-size: 32px;
-    line-height: 32px;
-}
-
-#about-bridge-row {
-    line-height: 120px;
-}
-
-#callout-maincontent a {
-    color: #c6c5b9;
-    transition: all 0.25s ease 0s;
-}
-
-#callout-maincontent a:hover {
-    font-size: 40px;
-    font-weight: 600;
-    text-decoration: none;
-}
 
 mark {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     background-color: #263538;
     color: #fdfdff;
 }
 
 #intro-offer {
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 #homepage-link {
@@ -333,6 +312,7 @@ ul {
 }
 iframe {
     width: 100%;
+    border: 0;
 }
 
 /*---------------------Modal--------------------------*/

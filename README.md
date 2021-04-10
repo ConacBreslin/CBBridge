@@ -19,6 +19,7 @@ Following background research with both bridge players and non-bridge players [(
 - address the barriers to starting bridge,
 - provide information on classes and the ability to sign up,
 - providing information on play and the ability to signup.
+
 In addition it was felt that the site would need interactive features to encourage visitors to engage with the site and return to the site in the future.
 The websites opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release [(see them here)](assets/pdfs/importance-feasibility.pdf)
 Consequently the opportunities to be included in the first release included

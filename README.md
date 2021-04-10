@@ -98,7 +98,7 @@ In the future it would be anticipated that the site would;
 - Lighthouse Audits. The site’s Performance, Accessibility, Best Practices and SEO were assessed by 
 [Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this are [here](assets/images/lighthouse-report.png).
 - Manual Testing. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to identify bugs and feedback on user experience. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
+It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to identify bugs and give feedback on user experience. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
 ### Testing User Stories from User Experience (UX) Section.
 1. Understand the purpose of the site
     - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links from the navbar to all sections.

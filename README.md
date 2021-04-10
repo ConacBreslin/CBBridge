@@ -1,7 +1,9 @@
 # **CBBridge Website**
 This website is designed for a ficticious Bridge Club called CBBridge. Bridge is a popular card game played by many people but suffers from a poor image The idea was to promote the CBBridge club in a contemporary and user-friendly way and to recruit students and players.
 ![CBBridge main page image](assets/images/screenshot-calloutpage.png)
-[View the deployed site here](https://conacbreslin.github.io/CBBridge/)
+
+
+[![Visit the deployed website here](assets/images/pageheading.png)](https://conacbreslin.github.io/CBBridge/)
 ## User Experience (UX)
 A visitor to this page would be a person interested in learning bridge, or an existing bridge player looking for somewhere to play bridge. It is likely that prospective visitors might belong to an older age demographic and so the site was designed with this in mind.
 On visiting the site they should be able to 

@@ -19,7 +19,6 @@ Following background research with both bridge players and non-bridge players [(
 - address the barriers to starting bridge,
 - provide information on classes and the ability to sign up,
 - providing information on play and the ability to signup.
-
 In addition it was felt that the site would need interactive features to encourage visitors to engage with the site and return to the site in the future.
 The websites opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release [(see them here)](assets/pdfs/importance-feasibility.pdf)
 Consequently the opportunities to be included in the first release included
@@ -27,8 +26,8 @@ Consequently the opportunities to be included in the first release included
 - addressing barriers to starting bridge,
 - providing information on lessons/play,
  - providing an opportunity to recruit students and players	.
-
-Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.
+ 
+ Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.
 
 Functional requirements; 	    To achieve this the website will provide them with re information that takes into account the research findings and the site will include the ability to sign up to the club from the website.
 
@@ -38,7 +37,7 @@ Business rule requirements;     The site will conform to data protection regulat
 ## Structure
 As the quantity of information on the website was not extensive a single page linear structure was planned. Users are to be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form should collect essential information and allow visitors to include their ability level and what they are interested in (classes, play or both).
 ## Skeleton
-The page is to start with an alert banner and navigation bar followed by a hero image with immediate links to classes, play and sign up. This is followed by sections addressing each opportunity identified containing infomration and testamonials, and finally a form for signing up. Inspirational quotes are to be included between sections. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile-wireframe.png)
+The page is to start with an alert banner and navigation bar followed by a hero image with  links to classes, play and sign up. This is followed by sections addressing each opportunity identified containing information and testamonials, and finally a form for signing up. Inspirational quotes are to be included between sections. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile-wireframe.png)
 , [mediumscreens](assets/wireframes/medium-wireframe.png),  and [desktop](assets/wireframes/desktop-wireframe.png)
 The site has a modal addressing the adaption of the club during COVID-19 restrictions.
 ## Surface/Design
@@ -54,8 +53,8 @@ The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for
 - The Navbar collapses and dismisses on tap on small screens.
 - The homepage is clear with obvious links to all sections and conveys the image of a modern club that is also sociable and fun.
 - The About Bridge Section gives a brief outline the game of bridge and provides links to more in-depth information. There are additional information paragraphs available on bigger screens.
-- The Learn Bridge with Us section gives information on all aspects of CBBridge classes.
-- The Play Bridge with Us section gives information on all aspects of CBBridge play sessions.
+- The Learn Bridge with Us section gives information on all aspects of CBBridge classes. The class timetable becomes swipeable on small screens.
+- The Play Bridge with Us section gives information on all aspects of CBBridge play sessions. The play times table becomes swipeable on small screens.
 - The Sign Up section collects user information and allows the user to sign up, and has a Modal to alert visitor to changes due to Covid restrictions.
 ## Future features
 In the future it would be anticipated that the site would;
@@ -64,8 +63,9 @@ In the future it would be anticipated that the site would;
 - make menu options dismiss on tapping logo when returning to home
 - provide a members’ section that could be logged in to,
 - provide an online discussion forum for bridge problems,
-- ilnk to exisiting online bridge platforms like BridgeBaseOnline and RealBridge,
-- provide interactive bridge hands and quizzes.
+- provide interactive bridge hands and quizzes,
+- link to exisiting online bridge platforms like BridgeBaseOnline and RealBridge.
+-
 
 ## Languages used
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -86,7 +86,7 @@ In the future it would be anticipated that the site would;
 - [tinypng.com](https://tinypng.com/) was used to resize images.
 - Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon.
 - [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon.
-- The map and details for embedding were taken from [Google map](https://www.google.co.uk/maps/)
+- The map and details for embedding were taken from [Google maps](https://www.google.co.uk/maps/)
 - code from [ourcodeworld.com](https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css) was used to make the tables responsive.
 - code from [css-tricks.com](https://css-tricks.com/perfect-full-page-background-image/) was used to import the background image. Vendor extensions were removed for this project.
 - code from [codeply.com](https://www.codeply.com/go/PqIBtz3HPL) was used to create	dismiss-on-tap.
@@ -94,45 +94,45 @@ In the future it would be anticipated that the site would;
 - code was formatted using [webformatter.com](https://webformatter.com/html).
 ## Testing
 ### Validation.
-The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/html-validator-testing.png).
-The site’s css validation was tested by 
-[jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/jigsaw-testing.png).
-### Lighthouse Audits
-The site’s Performance, Accessibility, Best Practices and SEO were audited by 
+- HTML.The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/html-validator-testing.png). There was a residual issue relating to the inclusion of text inside the iframe which is addressed in the log and is a known issue with iframes and validator.w3.org.
+- CSS. The site’s css validation was tested by [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/ttps://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/jigsaw-testing.png).
+- Lighthouse Audits. The site’s Performance, Accessibility, Best Practices and SEO were audited by 
 [Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this and improvements made are documented [here](assets/images/lighthouse-log.png).
-## Manual Testing
-The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to help identify bugs and user experience issues. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
+- Manual Testing. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to identify bugs and feedback on user experience. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
 ### Testing User Stories from User Experience (UX) Section.
 1. Understand the purpose of the site
-        - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links to all sections.
-        - the ethos and purpose of the club is summarised in the secondary heading
-        - there is a button linking to the sign up form from the main welcome page.
+    - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links from the navbar to all sections.
+    - the main title advertises the club name
+    - the ethos and purpose of the club is summarised in the secondary heading
+    - there is a button linking to the sign up form from the main welcome page.
 2. Understand the content/layout of webpage from the main page.
-    - the user can immediately see all the sections on the site on both the navbar and on the callout page links.
+    - the user can immediately see all the sections on the site on the navbar.
 3. Easily navigate to find out information about Bridge in general.
-    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+    - there ia a link on the navbar  to enable the user to jump straight to the relevent section.
 4. Easily navigate to find out information on Bridge classes and sign up for them.
-    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+    - there ia a link on the navbar to enable the user to jump straight to the relevent section.
 5. Easily navigate to information on Bridge play and sign up to play.
-    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+    - there ia a link on  the navbar to enable the user to jump straight to the relevent section.
 6. Easily navigate to the Contact form and send information from there.
-    - there are links on both the navbar and from the content of the main page to enable the user to jump straight to the relevent section.
+    - there is a link on  the navbar to enable the user to jump straight to the relevent section.
     - the Sign Up form has a clear submission button.
     - required fields identify themselves to user before submmission is allowed.
     - on clicking the submission button a modal warns the user of adaptations to classes and play during Covid restrictions.
-7. Easily return to the main page from all sections.
+7. Easy return to the main page from all sections.
     - the sticky navbar allows the user to navigate to any area of the site from their current location.
 ## Changes over course of development
 It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections.
 
 The modal was temporarily abandoned as the buttons included on it were complicating the submit procedure but it was then simplified and reinstated.
 
-Labels were added to tables to indicate their swipeability.
+Labels were added to tables to indicate their swipeability on small screens.
+
+Unnecessary additional links from the main content of the callout page to other sections were removed to keep the callout page clean and uncluttered as they were dupicating the navigation which is accessible to from sticky navbar.
 ## Known Bugs
 There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.However Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.
 
-When navigating on mobiles the navbar covers section headings, adding dimiss-on-tap improved but did not eliminate this issue.
+When navigating on some mobiles the navbar partially covers section headings, adding dimiss-on-tap improved but did not eliminate this issue.
 
 The navbar does not display in scrolling on some Samsung devices.
 ## Deployment
@@ -141,7 +141,7 @@ The navbar does not display in scrolling on some Samsung devices.
 2.	Selecting the "Settings" Button in the menu at the top of the Repository.
 3.	Scrolling down the Settings page to the "GitHub Pages" Section.
 4.	Under "Source", clicking the dropdown menu labelled "None" and selecting "Master Branch".
-5.	The page will refresh itself.
+5.	The page then refreshes itself.
 6.	Scrolling back down the page to locate the [link to the published site](https://conacbreslin.github.io/CBBridge/)  in "GitHub Pages".
 
 ### Forking the GitHub Repository

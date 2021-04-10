@@ -15,6 +15,14 @@ h2 {
     font-weight: 600;
 }
 
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
 .btn {
     color: #c6c5b9;
     background-color: #263538;

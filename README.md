@@ -149,10 +149,11 @@ The  GitHub Repository can be forked to make a copy of the original repository o
 1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/ConacBreslin/CBBridge) 
 2.	Selecting the "Fork" button at the top of the Repository (it is located above the "Settings" Button and over to the right).
 3.	There should then be a copy of the original repository in your GitHub account.
-Making a Local Clone
+
+### Making a Local Clone
 1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/ConacBreslin/CBBridge).
 2.	Under the repository name, clicking the dropdown button marked “Code” and then selecting "Clone or download".
-3.	To clone the repository using HTTPS, under "Clone with HTTPS", copying the link.
+3.	Copying the link under "Clone with HTTPS", to clone the repository using HTTPS.
 4.	Opening Git Bash.
 5.	Changing the current working directory to the location where you want the cloned directory to be made.
 6.	Typing git clone, and pasting the URL copied in Step 3.

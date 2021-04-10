@@ -1,0 +1,59 @@
+[33mcommit b183eaa3fc17a0b44dbc598fa9c00d3397fd9d6a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Sat Apr 10 10:51:15 2021 +0000
+
+    Add text for hover link to deployed site
+
+[33mcommit 18912a8603c8b54bf6afb13406782ab5e412efa6[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Sat Apr 10 10:48:55 2021 +0000
+
+    Add image of title and make it link to deployed site in README
+
+[33mcommit e92648815d8625a50340054e07ff8fb7f2afda12[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Sat Apr 10 10:16:37 2021 +0000
+
+    Remove inline styling of iframe to CSS
+
+[33mcommit b57f73f78af47d7f3314c4b8ebc446b45a0111ac[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Sat Apr 10 09:40:24 2021 +0000
+
+    Add class of testamonial-pic and update styling
+
+[33mcommit 4dade7accd8f1af92b7cc84eefc4e38a4c0f2cad[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Sat Apr 10 07:45:04 2021 +0000
+
+    Move inline style for img to CSS
+
+[33mcommit 42f054afc1e7774c9f64425d6a20a308da42e49f[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Fri Apr 9 08:33:19 2021 +0000
+
+    Additions to README
+
+[33mcommit 883e11ae0c7d72f562d17001313c3033b5139c3a[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Fri Apr 9 08:11:44 2021 +0000
+
+    Returned css formatted in external site
+
+[33mcommit 3fe41f95403dedb54fb9acfca80c68a62e284a5b[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Fri Apr 9 08:09:18 2021 +0000
+
+    Returned code formatted in external site
+
+[33mcommit 622c2edb1fc1bd41b377ed51a87d28cff5a0dd2a[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Fri Apr 9 08:06:57 2021 +0000
+
+    Removed duplicated rel=noopeners
+
+[33mcommit a6c06b5c699ef771ee15fd30801d245d491288e5[m
+Author: ConacBreslin <conacbreslin@sky.com>
+Date:   Fri Apr 9 07:50:11 2021 +0000
+
+    Add naem attribute to textarea input

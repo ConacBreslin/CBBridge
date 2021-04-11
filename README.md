@@ -135,7 +135,7 @@ There is a paragraph inside the iframe to advise users if their browser does not
 
 When navigating on some mobiles the navbar partially covers section headings, adding dimiss-on-tap improved but did not eliminate this issue.
 
-The navbar does not display in scrolling on some Samsung devices.
+The navbar did not stick to the top of the screen on a Samsung Galaxy XCover 4 device.
 ## Deployment
 ### The project was deployed to GitHub Pages in the following way. 
 1.	By logging in to the [GitHub Repository](https://github.com/)   

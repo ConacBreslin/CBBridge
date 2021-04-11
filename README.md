@@ -81,11 +81,14 @@ In the future it would be anticipated that the site would;
 - [Font Awesome](https://fontawesome.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) were used to import the icons.
 - Photos were used from [unsplash.com](https://unsplash.com/).
 - Photos were used from [pexels.com](https://www.pexels.com/).
+- Colours were identified in photos using [IMAGECOLORPICKER.com](https://imagecolorpicker.com/).
+- Colour palette was generated using [coolors.co](https://coolors.co/).
+- Foreground/Brackgound contrast as checked using [webaim.org](https://webaim.org/resources/contrastchecker/).
 - [online-image-editor.com](https://www.online-image-editor.com/) was used to edit and resize images.
 - [tinypng.com](https://tinypng.com/) was used to optimize images.
 - Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon.
 - [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon.
-- The map and details for embedding were taken from [Google maps](https://www.google.co.uk/maps/)
+- The map and details for embedding were taken from [Google maps](https://www.google.co.uk/maps/).
 - code from [ourcodeworld.com](https://ourcodeworld.com/articles/read/307/how-to-create-a-responsive-table-with-css) was used to make the tables responsive.
 - code from [css-tricks.com](https://css-tricks.com/perfect-full-page-background-image/) was used to import the background image. Vendor extensions were removed for this project.
 - code from [codeply.com](https://www.codeply.com/go/PqIBtz3HPL) was used to create	dismiss-on-tap.

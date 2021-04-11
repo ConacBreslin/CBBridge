@@ -45,7 +45,7 @@ The site has a modal addressing the adaption of the club during COVID-19 restric
 ### Imagery
 The hero image was a key aspect of the site it was found in [unsplash.com](https://unsplash.com/) and was chosen to convey a contemporary, modern feel.
 ### Colour scheme
- [IMAGECOLORPICKER.com](https://imagecolorpicker.com/) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](https://coolors.co/) to generate [this colour palette](assets/images/colour-palette.png) which was felt to be contemporary and subtle.
+ [IMAGECOLORPICKER.com](https://imagecolorpicker.com/) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](https://coolors.co/) to generate [this colour palette](assets/images/colour-palette.png) which was felt to be contemporary and subtle. The contrast ratio of the foreground and background colours was checked [in webaim.org](https://webaim.org/resources/contrastchecker/) is [7.33:1](assets/images/contrast-checker.png)
 ### Typography
 The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing. The fallback font is Sans Serif.
 ## Features

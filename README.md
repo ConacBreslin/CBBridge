@@ -17,18 +17,18 @@ On visiting the site they should be able to
 A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a template from an organisation called [bridgewebs.com](https://www.bridgewebs.com/). This provides a simple and easy way to create a webpage which is tailored to the needs of most bridge clubs but has resulted in an generic sameness of bridge club websites and this bridge club wanted to create something different.
 Following background research with both bridge players and non-bridge players [(see results here)](assets/pdfs/background-research.pdf). It was felt that the website needed to; 
 - address the barriers to starting bridge,
-- provide information on classes and the ability to sign up,
-- providing information on play and the ability to signup.
+- provide information on classes and the ability to sign up to them,
+- provide information on play and the ability to sign up for it.
 
 In addition it was felt that the site would need interactive features to encourage visitors to engage with the site and return to the site in the future.
 The websites opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release [(see them here)](assets/pdfs/importance-feasibility.pdf)
-Consequently the opportunities to be included in the first release included
+Consequently the opportunities to be included in the first release included;
 - creating an online presence,
 - addressing barriers to starting bridge,
 - providing information on lessons/play,
  - providing an opportunity to recruit students and players	.
  
- Objective Requirements;         The user will want to enrol in Bridge classes or Bridge play.
+ Objective Requirement;         To enrol users in Bridge classes or Bridge play.
 
 Functional requirements; 	    To achieve this the website will provide them with re information that takes into account the research findings and the site will include the ability to sign up to the club from the website.
 

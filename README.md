@@ -111,17 +111,17 @@ It was viewed on a variety of devices. Links were tested repeatedly. Friends and
 2. Understand the content/layout of webpage from the main page.
     - the user can immediately see all the sections on the site on the navbar.
 3. Easily navigate to find out information about Bridge in general.
-    - there ia a link on the navbar  to enable the user to jump straight to the relevent section.
+    - there is a link on the navbar  to enable the user to jump straight to the relevent section.
 4. Easily navigate to find out information on Bridge classes and sign up for them.
-    - there ia a link on the navbar to enable the user to jump straight to the relevent section.
+    - there is a link on the navbar to enable the user to jump straight to the relevent section.
 5. Easily navigate to information on Bridge play and sign up to play.
-    - there ia a link on  the navbar to enable the user to jump straight to the relevent section.
+    - there is a link on  the navbar to enable the user to jump straight to the relevent section.
 6. Easily navigate to the Contact form and send information from there.
     - there is a link on  the navbar to enable the user to jump straight to the relevent section.
     - the Sign Up form has a clear submission button.
     - required fields identify themselves to user before submmission is allowed.
     - on clicking the submission button a modal warns the user of adaptations to classes and play during Covid restrictions.
-7. Easy return to the main page from all sections.
+7. Easily return to the main page from all sections.
     - the sticky navbar allows the user to navigate to any area of the site from their current location.
 ## Changes over course of development
 It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections.
@@ -132,9 +132,9 @@ Labels were added to tables to indicate their swipeability on small screens.
 
 The layout of the footer on mobile devices was changed to make the map full width under the other content as it was felt it was was too small in 1/3 column on mobiles.
 
-Unnecessary additional links from the main content of the callout page to other sections were removed to keep the callout page clean and uncluttered as they were dupicating the navigation which is accessible to from sticky navbar.
+Unnecessary additional links from the main content of the callout page to other sections were removed to keep the callout page clean and uncluttered, they were also dupicating the navigation which is accessible to from sticky navbar.
 ## Known Bugs
-There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe.However Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.
+There is a paragraph inside the iframe to advise users if their browser does not support it, validator.w3.org calls this an error as it says says  text is not allowed in the iframe, however Code Institute's teaching and [stackoverflow.com](https://stackoverflow.com/questions/13523260/javascript-and-iframe-not-supported-in-browsers-other-than-ie/13523382#13523382) say this is permitted.
 
 When navigating on some mobiles the navbar partially covers section headings, adding dimiss-on-tap improved but did not eliminate this issue.
 
@@ -174,6 +174,8 @@ All content was written by the developer.
 I would like to thank my mentor Chris Quinn for sound advice and support. 
 
 I would like to thank many tutors in Code Institute for being unfailingly helpful and nice, in particular Alan, Mikos, Tim, Jo, Igor and Fatima. 
+
+I would like to thank the Code Institute's slack community for help in answering questions and for feedback on the site.
 
 I would like to thank Stephen Seagrave for his [excellent presentation](https://us02web.zoom.us/rec/play/zZzrdRcJ1Gz9isoaRTUcHNhB1VEqzkhcI4kkOUXEbTGTShtMaNQEpxYE7dW214K5X2OWveSRPLL-oWtA.5EMQT2YvoO2ZLIox?autoplay=true) on MS1 projects that I consulted repeatedly.
 

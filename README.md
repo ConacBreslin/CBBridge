@@ -81,8 +81,8 @@ In the future it would be anticipated that the site would;
 - [Font Awesome](https://fontawesome.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/) were used to import the icons.
 - Photos were used from [unsplash.com](https://unsplash.com/).
 - Photos were used from [pexels.com](https://www.pexels.com/).
-- [online-image-editor.com](https://www.online-image-editor.com/) was used to edit images.
-- [tinypng.com](https://tinypng.com/) was used to resize images.
+- [online-image-editor.com](https://www.online-image-editor.com/) was used to edit and resize images.
+- [tinypng.com](https://tinypng.com/) was used to optimize images.
 - Pixillion image conversion software from [nchsoftware.com](https://www.nchsoftware.com/imageconverter/index.html) was used to create the favicon.
 - [101computing.net](https://www.101computing.net/html-how-to-add-a-favicon/) was used to help insert the favicon.
 - The map and details for embedding were taken from [Google maps](https://www.google.co.uk/maps/)

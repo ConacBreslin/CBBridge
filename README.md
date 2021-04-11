@@ -14,29 +14,29 @@ On visiting the site they should be able to
 6. Easily navigate to the Contact form and send information from there.
 7. Easily return to the main page from all sections.
 ## Strategy
-A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a template from an organisation called [bridgewebs.com](https://www.bridgewebs.com/). This provides a simple and easy way to create a webpage which is tailored to the needs of most bridge clubs but has resulted in an generic sameness of bridge club websites and this bridge club wanted to create something different.
+A search of existing Bridge club websites shows there are very many bridge clubs with websites, but the vast majority are created with a template from an organisation called [bridgewebs.com](https://www.bridgewebs.com/). This provides a simple and easy way to create a webpage which is tailored to the needs of most bridge clubs but has resulted in a generic sameness of bridge club websites and this bridge club wanted to create something different.
 Following background research with both bridge players and non-bridge players [(see results here)](assets/pdfs/background-research.pdf). It was felt that the website needed to; 
 - address the barriers to starting bridge,
 - provide information on classes and the ability to sign up to them,
 - provide information on play and the ability to sign up for it.
 
 In addition it was felt that the site would need interactive features to encourage visitors to engage with the site and return to the site in the future.
-The websites opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release [(see them here)](assets/pdfs/importance-feasibility.pdf)
+The website's opportunities to meet these needs and the feasibility of achieving them were quantified and plotted to help decide what would be included in the initial release [(see them here)](assets/pdfs/importance-feasibility.pdf).
 Consequently the opportunities to be included in the first release included;
 - creating an online presence,
 - addressing barriers to starting bridge,
 - providing information on lessons/play,
- - providing an opportunity to recruit students and players	.
+ - providing an opportunity to recruit students and players.
  
  Objective Requirement;         To enrol users in Bridge classes or Bridge play.
 
 Functional requirements; 	    To achieve this the website will provide them with re information that takes into account the research findings and the site will include the ability to sign up to the club from the website.
 
-Non functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.
+Non-functional requirements; 	The level of interactivity and complexity of the site will be limited by both the skill set of the person compiling the website and the likelihood that a significant proportion of people seeking bridge classes/play may be mature and may not have the technological skills of a younger demographic.
 
-Business rule requirements;     The site will conform to data protection regulations
+Business rule requirements;     The site will conform to data protection regulations.
 ## Structure
-As the quantity of information on the website was not extensive a single page linear structure was planned. Users are to be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form should collect essential information and allow visitors to include their ability level and what they are interested in (classes, play or both).
+As the quantity of information on the website was not extensive, a single page linear structure was planned. Users are to be a given a navigation bar at the start and a return to home button as the page scrolls down. The contact/submission form should collect essential information and allow visitors to include their ability level and what they are interested in (classes, play or both).
 ## Skeleton
 The page is to start with an alert banner and navigation bar followed by a hero image with  links to classes, play and sign up. This is followed by sections addressing each opportunity identified containing information and testamonials, and finally a form for signing up. Inspirational quotes are to be included between sections. The footer has additional information links, social media links and a map. These are laid out in three Balsamiq wireframes for [mobile](assets/wireframes/mobile-wireframe.png), [mediumscreens](assets/wireframes/medium-wireframe.png) and [desktop](assets/wireframes/desktop-wireframe.png).
 The site has a modal addressing the adaption of the club during COVID-19 restrictions.
@@ -46,7 +46,7 @@ The hero image was a key aspect of the site it was found in [unsplash.com](https
 ### Colour scheme
  [IMAGECOLORPICKER.com](https://imagecolorpicker.com/) was used to find the hex value of the backgound colour in the hero image and this was used in [coolor.co](https://coolors.co/) to generate [this colour palette](assets/images/colour-palette.png) which was felt to be contemporary and subtle. The contrast ratio of the foreground and background colours was checked [in webaim.org](https://webaim.org/resources/contrastchecker/) and is [7.33:1](assets/images/contrast-checker.png).
 ### Typography
-The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for its clarity and contemporary feel and Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing. The fallback font is Sans Serif.
+The Comfortaa font was selected in [Google Fonts](https://fonts.google.com/) for its clarity and contemporary feel. Google fonts suggested Montserrat as an accompanying font and its simplicity was appealing. The fallback font is Sans Serif.
 ## Features
 - Responsiveness on all device sizes.
 - The Alert banner disappears on small screens.
@@ -97,8 +97,7 @@ In the future it would be anticipated that the site would;
 ### Validation.
 - HTML.The site’s html validation was tested by [validator.w3.org](https://validator.w3.org/). The errors identified and fixes are documented [here](assets/images/html-validator-testing.png). There was a residual issue relating to the inclusion of text inside the iframe which is addressed in the log and is a known issue with iframes and validator.w3.org.
 - CSS. The site’s css validation was tested by [jigsaw.w3.org](https://jigsaw.w3.org/css-validator/). The errors identified and fixes are documented [here](assets/images/jigsaw-testing.png).
-- Lighthouse Audits. The site’s Performance, Accessibility, Best Practices and SEO were assessed by 
-[Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this are [here](assets/images/lighthouse-report.png).
+- Lighthouse Audits. The site’s Performance, Accessibility, Best Practices and SEO were assessed by [Chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) and the results of this are [here](assets/images/lighthouse-report.png).
 - Manual Testing. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to identify bugs and give feedback on user experience. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
 ### Testing User Stories from User Experience (UX) Section.
@@ -140,7 +139,7 @@ When navigating on some mobiles the navbar partially covers section headings, ad
 The navbar did not stick to the top of the screen on a Samsung Galaxy XCover 4 device.
 ## Deployment
 ### The project was deployed to GitHub Pages in the following way. 
-1.	By logging in to the [GitHub Repository](https://github.com/)   
+1.	By logging in to the [GitHub Repository](https://github.com/).
 2.	Selecting the "Settings" Button in the menu at the top of the Repository.
 3.	Scrolling down the Settings page to the "GitHub Pages" Section.
 4.	Under "Source", clicking the dropdown menu labelled "None" and selecting "Master Branch".
@@ -149,7 +148,7 @@ The navbar did not stick to the top of the screen on a Samsung Galaxy XCover 4 d
 
 ### Forking the GitHub Repository
 The  GitHub Repository can be forked to make a copy of the original repository on the GitHub account to view and/or make changes without affecting the original repository in the following way.
-1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/ConacBreslin/CBBridge) 
+1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/ConacBreslin/CBBridge).
 2.	Selecting the "Fork" button at the top of the Repository (it is located above the "Settings" Button and over to the right).
 3.	There should then be a copy of the original repository in your GitHub account.
 

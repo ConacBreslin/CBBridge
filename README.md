@@ -101,25 +101,25 @@ In the future it would be anticipated that the site would;
 - Manual Testing. The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 It was viewed on a variety of devices. Links were tested repeatedly. Friends and family members were asked to review the site to identify bugs and give feedback on user experience. The code was submitted for peer-review in Code Institutes peer-code-review channel in [slack.com](https://app.slack.com/). The results of manual testing can be found [here](assets/images/manual-testing.png).
 ### Testing User Stories from User Experience (UX) Section.
-1. Understand the purpose of the site
-    - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links from the navbar to all sections.
-    - the main title advertises the club name
-    - the ethos and purpose of the club is summarised in the secondary heading
+1. Understand the purpose of the site;
+    - on entering the site the user is immediately greeted with a clean, uncluttered welcome page with an outline of all sections available and links from the navbar to all sections,
+    - the main title advertises the club name,
+    - the ethos and purpose of the club is summarised in the secondary heading,
     - there is a button linking to the sign up form from the main welcome page.
-2. Understand the content/layout of webpage from the main page.
+2. Understand the content/layout of webpage from the main page;
     - the user can immediately see all the sections on the site on the navbar.
-3. Easily navigate to find out information about Bridge in general.
-    - there is a link on the navbar  to enable the user to jump straight to the relevent section.
-4. Easily navigate to find out information on Bridge classes and sign up for them.
+3. Easily navigate to find out information about Bridge in general;
     - there is a link on the navbar to enable the user to jump straight to the relevent section.
-5. Easily navigate to information on Bridge play and sign up to play.
+4. Easily navigate to find out information on Bridge classes and sign up for them;
+    - there is a link on the navbar to enable the user to jump straight to the relevent section.
+5. Easily navigate to information on Bridge play and sign up to play;
     - there is a link on  the navbar to enable the user to jump straight to the relevent section.
-6. Easily navigate to the Contact form and send information from there.
-    - there is a link on  the navbar to enable the user to jump straight to the relevent section.
-    - the Sign Up form has a clear submission button.
-    - required fields identify themselves to user before submmission is allowed.
+6. Easily navigate to the contact form and send information from there;
+    - there is a link on  the navbar to enable the user to jump straight to the relevent section,
+    - the Sign Up form has a clear submission button,
+    - required fields identify themselves to user before submmission is allowed,
     - on clicking the submission button a modal warns the user of adaptations to classes and play during Covid restrictions.
-7. Easily return to the main page from all sections.
+7. Easily return to the main page from all sections;
     - the sticky navbar allows the user to navigate to any area of the site from their current location.
 ## Changes over course of development
 It was decided to use a sticky navbar which removed the need to 'return to top' buttons in all sections.
